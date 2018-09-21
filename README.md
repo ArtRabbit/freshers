@@ -13,9 +13,15 @@ If you find any problems or inaccuracies, please raise a ticket.
 ## Contributing
 We encurage contributions to this guide and accept pull requests. New versions of this guide will be released each year in September.
 
-- single html page with style for fast performance 
-- progressive enhancement: some javascript to allow smooth scrolling and lazyloading of images and registering of a service worker for caching, but the page works without javascript
-- 
+### Technical overview
+- single HTML page with inline CSS and Javascript for fast performance 
+- progressive enhancements via Javascript: 
+  - smooth scrolling on more browsers that don't support scroll-behavior:smooth (https://zengabor.github.io/zenscroll/)
+  - lazyloading of images (https://github.com/aFarkas/lazysizes)
+  - service worker for caching
+
+### Adding content
+Content can be added by editing the HTML structure. New sections need to be manually added to the navigation section.
 
 ## Reuse and License
 If you reuse this project let us know, we'd like to hear about it and will list sister projects on this page.
