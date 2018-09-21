@@ -1,0 +1,30 @@
+{
+    "name": "Freshers",
+    "short_name": "Freshers",
+    "start_url": "index.html",
+    "scope": "/freshers2018/",
+    "serviceworker": {
+    	"src": "service-worker.js",
+    	"scope": "/freshers2018/"
+    },
+    "icons": [
+        {
+            "src": "android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "android-chrome-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#1823c2",
+    "background_color": "#1823c2",
+    "display": "standalone"
+}
