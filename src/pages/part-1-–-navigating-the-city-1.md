@@ -20,3 +20,9 @@ We're all about exploring local communities through art trails, and we think it'
 While we’ve gathered feats and highlights of various cities from all corners of the UK, this is in no way a comprehensive list of all the places to find arts and culture. The UK has so many amazing spots to explore and events to attend that a single guide could never do it full justice. If your city or town isn’t included in this guide, download the [ArtRabbit app](https://www.artrabbit.com/what-you-can-do/app) to find contemporary art exhibitions and events going on right now, right where you are.
 
 The cities we covered and partners we worked with this year underscores the must-visit destinations of the UK, with expertly curated art trails that makes discovering a city easy and fulfilling. Read on to explore the best ways the navigate each city.
+
+## Choose a city
+
+1. [Aberdeen](/aberdeen)
+2. Bath
+3.
