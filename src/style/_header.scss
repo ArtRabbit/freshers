@@ -1,0 +1,182 @@
+.logo{
+	display: block;
+	float: left;
+	font-size: 19px;
+	line-height: 30px;
+	color: $cPrimary;
+	position: relative;   
+
+	@include respond-to(tablet-portrait) {   
+
+	}
+}
+
+header {
+	z-index: 99;
+	padding-top: 50px;
+	height: $headerHeight;
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	right: 0px;
+	margin: auto;
+	
+	//left: 50%;;
+	width: 100%;
+	//background-color: transparent;
+	background-color: $cY;
+	
+	//transform: translate(-50% 0px);
+	//transition: background-color 0.1s ease;
+	transition: padding-top, height 0.3s ease;
+	max-width:100%;
+
+	&.scrolling{
+		background-color: $cY;
+		padding-top: 19px;
+		height: $headerHeightCollapsed;
+	}
+
+	+ section, + main {
+		padding-top: 10px;
+	}
+
+}
+ 
+
+#main-menu{
+
+	@include respond-to(mobile-only) { 
+	} 	
+
+	@include respond-to(tablet-portrait) {   
+	} 
+
+}
+
+ 
+.menu-toggle {
+	float: right;
+	position: relative; 
+	right: -7px;
+	@extend %ico;
+	background: url('/static/img/menu.svg') no-repeat center center transparent; 
+	background-size: 16px 15px;
+
+	&:after { 
+		background: url('/static/img/menu-active.svg') no-repeat center center transparent; 
+		background-size: 16px 15px;
+	}
+}
+
+.menu-close {
+	@extend %ico;
+	position: absolute;
+	right: -7px;
+	top: 0px;
+
+	background: url('/static/img/menu-close.svg') no-repeat center center transparent; 
+	background-size: 14px 15px;
+
+	&:after { 
+		background: url('/static/img/menu-close-active.svg') no-repeat center center transparent; 
+		background-size: 14px 15px;
+	}
+}
+
+#main-menu-checkbox {
+  position: absolute;
+  left: -100vw; /* get it off the screen */
+}
+
+.main-menu {
+	position: fixed;  
+	left: 100vw; 
+	width: 100%;;
+	top: 0;
+	height: 100%;
+	overflow: auto;
+	transition: left 0.3s ease, opacity 0.3s ease;
+	z-index: 999;
+	background: $cBg;
+	opacity: 0; 
+	padding: 50px $gutter-width $gutter-width $gutter-width;
+
+	  
+
+	ul, li, strong, a {  
+		line-height: 26px;
+		font-size: 19px; 
+		color: $cPrimary;
+		display: block;
+	}
+
+	a { 
+		&:focus, &:hover {
+			color: $cBlue;
+		}
+	}
+
+	ul {
+		a {
+			@extend %has-arrow;
+		}
+	}
+	
+	.wrap {
+		> strong {
+			line-height: 30px;
+			margin-bottom: -5px;
+		}
+
+		> ul {
+			display: block;
+			> li {
+				padding: 30px 0px 0px;
+
+				> ul {
+
+					> li { 
+						color: $cSecondary;
+						a { 
+							color: $cSecondary;
+							&:hover{
+								color: $cBlue;
+							}
+						}
+						> ul {
+							> li {
+								color: $cSecondary;
+								a { 
+									color: $cSecondary;
+									&:hover{
+										color: $cBlue;
+									}
+								}
+							}
+						}
+					}
+				}
+			}
+
+		}
+		
+	}
+	
+ 
+}   
+
+#main-menu-checkbox:checked + nav, .main-menu[aria-expanded="true"] {
+	left: 0vw;  
+	outline: none; 
+	opacity: 1;
+
+	.menu-close {
+		z-index: 1001;
+	}
+
+	ul {
+		position: relative;
+		z-index: 1000;
+	}
+}

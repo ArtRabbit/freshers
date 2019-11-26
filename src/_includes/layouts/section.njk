@@ -1,0 +1,11 @@
+---
+layout: layouts/base.njk
+section: section
+---
+<h1>{{ title }}</h1>
+{{ layoutContent | safe }}
+{% if dl.download %}<a href="{{ dl.download }}" class="btn arrow">{{ dl.downloadLabel }}</a>{% endif %}
+<div class="navigation">
+	{% if pageNavigation.back %}<a href="{{ pageNavigation.back }}" class="back" tabindex="0" role="button" aria-label="Back a page"></a>{% endif %}
+	{% if pageNavigation.next %}<a href="{{ pageNavigation.next }}" class="next" tabindex="0" role="button" aria-label="Next page">{{ pageNavigation.nextLabel }}</a>{% endif %}
+</div>

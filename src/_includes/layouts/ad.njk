@@ -1,0 +1,17 @@
+---
+layout: layouts/base.njk
+section: ad
+---
+{% if image %}
+<a href="{{ link }}" target="_blank" class="ad fullheight fixed" rel="noopener noreferrer">
+	<img 
+		srcset="{{ image | imgSuffix('1440') }} 1440w, {{ image | imgSuffix('2880') }} 2880w"
+		sizes= "100vw"
+		src="{{ image | imgSuffix('1440') }}" alt="Ad" >
+</a> 
+{% endif %}
+<div class="navigation">
+	{% if pageNavigation.back %}<a href="{{ pageNavigation.back }}" class="back" tabindex="0" role="button" aria-label="Back a page"></a>{% endif %}
+	{% if pageNavigation.next %}<a href="{{ pageNavigation.next }}" class="next" tabindex="0" role="button" aria-label="Next page">{{ pageNavigation.nextLabel }}</a>{% endif %}
+</div>
+

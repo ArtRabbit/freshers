@@ -1,0 +1,302 @@
+@charset "UTF-8";
+
+
+/* =================================================================================================
+Typography 
+================================================================================================= */
+
+/*
+@font-face {
+    font-family: 'AvenirNextW06-Demi';
+    src: url('font/AvenirNextW06-Demi.woff2') format('woff2'),
+        url('font/AvenirNextW06-Demi.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+} 
+
+@font-face {
+    font-family: 'AvenirNextLTW01';
+    src: url('font/AvenirNextLTW01-Medium.woff2') format('woff2'),
+        url('font/AvenirNextLTW01-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+*/
+
+
+
+@font-face {
+    font-family: 'AvenirNextW06-Regular';
+    src: url('/_includes/assets/font/AvenirNextW06-Regular.woff2') format('woff2'),
+        url('font/AvenirNextW06-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+
+@font-face {
+    font-family: 'AvenirNextW06';
+    src: url('/_includes/assets/font/AvenirNextW06-Bold.woff2') format('woff2'),
+        url('fontAvenirNextW06-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+
+
+* {
+  font-family: $font-family; 
+  z-index: 1;
+}
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+	margin: 0px 0px 0px;
+	font-family: $font-family-headings;
+	display: block;
+	position: relative;  
+	font-style: normal;
+	letter-spacing: normal;
+	line-height: 1.43; 
+ 
+}
+
+h1, .h1{
+	line-height: 1.05;
+	font-size: 38px;
+	max-width: 80%;
+
+	+ .h2 {
+		font-size: 19px;
+	}
+}
+
+h2, .h2{
+	font-size: 28px;
+}
+h3, .h3{
+	font-size: 24px;
+}
+h4, .h4{
+	font-size: 22px;
+}
+h5, .h5{
+	font-size: 20px;
+}
+h6, .h6{
+	font-size: 20px;
+}
+
+strong, b { 
+}
+
+p { 
+	margin-bottom: 1.2em;
+	&:last-child{
+		margin-bottom: 0;
+	}
+}
+ 
+a{
+	color: $cPrimary;
+	text-decoration: none;
+	transition: color 0.1s ease-in-out; 
+
+	&:hover{
+		color: $cPrimary;
+		text-decoration: none;
+	}
+}
+
+
+@include respond-to(tablet-portrait) {
+	
+	h1, .h1{ 
+	}
+	h2, .h2{
+	}
+	h3, .h3{
+	}
+	h4, .h4{
+	}
+	h5, .h5{
+	}
+
+}
+
+
+@include respond-to(desktop) {
+	
+}
+
+
+
+article {
+	@extend %cf;
+	line-height: 1.43;
+	position: relative;
+
+	ul {
+		color: $cPrimary;
+		li {
+			color: $cPrimary;
+		}
+
+		&:not(.links){ 
+			font-family: $font-family-serif;
+			font-weight: normal;
+			color: $cText;
+		}
+	}
+	
+	
+	strong, b {
+		font-weight: bold;
+	}
+
+	small { 
+		font-size: 12px;
+	}
+
+	ul { 
+		padding: 10px 0px 20px 30px;
+		list-style: none;
+
+		li {
+			list-style-type:none;
+			padding: 0px 0px 0px 0px;
+			position: relative;
+			margin-bottom: 10px;
+
+			&::before {
+				content: "—"; 
+				color: $cPrimary;
+				display: inline-block; 
+				width: 30px;
+  				margin-left: -30px
+			}
+
+			 
+			ul {
+				padding-top: 10px;
+			}
+		} 
+	} 
+
+	ol {
+		padding: 0px 0px 20px 0px;
+		list-style-type: none;
+
+		li {
+			@extend %has-arrow;
+			display: block;
+			font-size: 28px;
+			margin-bottom: 0;
+
+			a {
+				border-bottom: none;
+				color: $cPrimary;
+				
+			}
+
+			&:before, &:after {
+				bottom: 7px !important;
+			}
+
+		}
+	}
+
+
+	h2, h3, h4, h5, h6 {
+		margin-bottom:19px;
+		
+	}
+
+	p {
+		line-height: 1.68;
+		margin-bottom: 19px;  
+		font-family: $font-family-serif;
+		font-weight: normal;
+		color: $cText;
+
+		&:last-child{
+			margin-bottom: 0;
+		}
+	}
+
+	p + ul {
+		margin-top: 0px;
+	}
+
+	table { 
+		font-family: $font-family-serif;
+		font-weight: normal;
+		color: $cText;
+		border-collapse: collapse;
+		width: 100%;
+		td {
+
+		}
+	}
+
+	a {
+		color: $cText; 
+		border-bottom: 2px solid $cY;
+		&:hover{
+			color: $cPrimary;
+		}
+		
+		img {
+			margin-bottom:-2px;
+		}
+	}
+
+
+	blockquote{
+		padding: 20px;
+		font-size: 18px;
+		color: inherit;
+		p:last-child{
+			> strong{
+				display: block;
+				margin-top: -10px;
+				font-size: 15px;
+				color: inherit;
+			}
+		}
+	}
+
+ 	
+	@include respond-to(tablet-portrait) {
+		font-size: 18px;
+
+		ul { 
+			padding: 10px 0px 20px 60px;
+			li { 
+				&:before { 
+		  			width: 60px;
+		  			margin-left: -60px
+		  		}
+		  	}
+		 }
+
+	}
+}
+
+blockquote {
+	&:after {
+	    content: "”";
+	    margin-left: 4px; 
+	}
+	&:before {
+	    content: "“";
+	    margin-right: 4px;
+	}
+}
+
+blockquote {
+	font-family: $font-family-bold;
+	font-size: 18px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}

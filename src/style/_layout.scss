@@ -1,0 +1,123 @@
+* {
+	box-sizing: border-box;
+	outline: 0; 
+	-webkit-tap-highlight-color: rgba(0,0,0,0);
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+
+	vertical-align: top;
+	font-size: $font-size; 
+
+}
+
+html, body {
+	height: auto;
+	min-height: 100%;
+	background-color: $cY; 
+	font-family: $font-family; 
+	line-height: $line-height;  
+
+	@include respond-to(tablet-portrait) { 
+	}
+}
+ 
+
+header, footer, section, main{
+	@extend %cf; 
+	padding: 0;  
+	z-index: 9;
+	position: relative;  
+	width:100%; 
+	max-width: $max-width + 2*$gutter-width;
+	display: block; 
+	padding: $gutter-width $gutter-width $gutter-width $gutter-width;
+ 	margin: auto;
+
+	&.over {
+		z-index: 20;
+	}
+
+	&.fw {
+		padding-left: 0;
+		padding-right: 0;
+	}
+ 	
+} 
+
+main {
+	padding-bottom: 0;
+
+	article {
+		@extend %grey-bg;
+		padding: 0px 0px 5*$gutter-width;
+		height: 100%; 
+
+		h1, .h1 {
+			@extend %yellow-bg;
+			margin: 0px 0px $gutter-width;
+			padding: 0px 0px $gutter-width;
+		}
+
+		.h1 {
+			+ h1 {
+				@extend %white-bg;
+				padding: $gutter-width 0px;
+				margin-top: -1*$gutter-width;	
+			}
+		}
+ 
+ 		.book {
+ 			margin-bottom:19px;
+ 			display:block;
+ 			border-bottom:0px;
+ 		}
+	}
+}
+
+nav + main { // first text block to be fullheigt
+	padding-top: 15px;
+	min-height: calc(100vh - #{$headerHeight}); 
+	//height: 1px;
+
+	article {
+		min-height: calc(100vh - #{$headerHeight}); 
+	}
+
+}
+
+
+#page{  
+	background-color: $cY; 
+	margin:auto; 
+	z-index: 11;
+	position: relative; 
+	margin: auto;
+	width:100%;
+	min-height: 100%;   
+	padding: $headerHeight 0px 0px 0px;
+	overflow: hidden;
+
+	@include respond-to(tablet-portrait) {  
+	} 
+
+	@include respond-to(desktop) {  
+	}  
+}  
+ 
+
+.wrap{
+	@extend %cf; 
+	position: relative;
+	margin: auto; 
+	display: block;  
+	max-width: $max-width;
+}
+ 
+img{
+	max-width: 100%;
+	height: auto; 
+	vertical-align: bottom;
+	&.fw {
+		width: 100%;
+	}
+}  
