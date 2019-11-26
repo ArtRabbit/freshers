@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: tomelsner/eleventy-netlify-boilerplate
+  repo: ArtRabbit/freshers
   branch: master # Branch to update (optional; defaults to master)
 
 # Uncomment below to enable drafts
