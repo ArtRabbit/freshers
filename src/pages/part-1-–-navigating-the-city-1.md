@@ -6,7 +6,7 @@ permalink: /navigating-the-city/introduction/index.html
 eleventyNavigation:
   key: Introduction
   order: '0'
-  parent: Part 1 - Navigating the City
+  parent: Part 1 – Navigating the City
   title: ''
 pageNavigation:
   back: /navigating-the-city/index.html
