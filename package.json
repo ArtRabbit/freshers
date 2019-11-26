@@ -1,0 +1,48 @@
+{
+  "name": "artrabbit-freshers-2019",
+  "version": "1.0.1",
+  "description": "Art Freshers 2019",
+  "scripts": {
+    "start": "gulp build & gulp watch & ELEVENTY_ENV=dev eleventy --serve",
+    "prime": "gulp build & ELEVENTY_ENV=prime eleventy",
+    "build": "gulp build & ELEVENTY_ENV=prod eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ArtRabbit/freshers"
+  },
+  "author": {
+    "name": "Artrabbit",
+    "email": "support@artrabbit.com",
+    "url": "https://github.com/ArtRabbit"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ArtRabbit/freshers/issues"
+  },
+  "homepage": "https://github.com/ArtRabbit/freshers",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.9.0",
+    "luxon": "^1.21.1",
+    "markdown-it": "^10.0.0",
+    "markdown-it-anchor": "^5.2.5",
+    "markdown-it-block-embed": "^0.0.3"
+  },
+  "dependencies": {
+    "@11ty/eleventy-navigation": "^0.1.2",
+    "clean-css": "^4.2.1",
+    "fs-extra": "^8.1.0",
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-rename": "^1.4.0",
+    "gulp-responsive": "^3.0.1",
+    "gulp-sass": "^4.0.2",
+    "gulp-uglify": "^3.0.2",
+    "html-minifier": "^4.0.0",
+    "markdown-it-custom-block": "^0.1.1",
+    "markdown-it-implicit-figures": "^0.9.0",
+    "path": "^0.12.7",
+    "sass": "^1.23.6",
+    "uglify-es": "^3.3.9"
+  }
+}

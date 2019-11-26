@@ -1,0 +1,67 @@
+backend:
+  name: github
+  repo: tomelsner/eleventy-netlify-boilerplate
+  branch: master # Branch to update (optional; defaults to master)
+
+# Uncomment below to enable drafts
+  publish_mode: editorial_workflow
+
+    
+media_folder: "/src/static/img/uploads" # Media files will be stored in the repo under images/uploads
+public_folder: "/static/img/uploads"
+
+collections:
+  - name: "ads"
+    label: "Ad"
+    folder: "src/ads"
+    create: true
+    slug: "{{slug}}"
+    fields:
+        - { label: "Title", name: "title", widget: "string" }
+        - { label: "Publish Date", name: "date", widget: "datetime" }
+        - { label: "Permalink", hint: "Relative URL for this page, needs to be unique. For example /chapter/content/index.html or for a chapter /chapter/index.html.  . It needs to end in .html to work, if you by accident saved a page without html the page needs to be deleted.", name: "permalink", widget: "string" }
+        - { label: "Image", name: "image", widget: "image" }
+        - { label: "Link", name: "link", widget: "string" }
+        - { label: "Layout", name: "layout", widget: "hidden", default: "layouts/ad" }
+        - label: "Page navigation"
+          name: "pageNavigation"
+          widget: "object"
+          fields: 
+            - { label: "Previous page", name: "back", widget: "relation", collection: "pages", searchFields: ["title"],valueField: "permalink",displayFields: ["title", "permalink"], required: false }
+            - { label: "Next page", name: "next", widget: "relation", collection: "pages", searchFields: ["title"],valueField: "permalink",displayFields: ["title", "permalink"], required: false }
+            - { label: "Next ad", name: "nexta", hint: "Selecting ad will overwrite next page.", widget: "relation", collection: "ads", searchFields: ["title"],valueField: "permalink",displayFields: ["title", "permalink"], required: false }
+            - { label: "Next page label", name: "nextLabel", widget: "string", required: false }
+  # Our pages e.g. About
+  - name: "pages"
+    label: "Page"
+    folder: "src/pages"
+    create: true # Change to true to allow editors to create new pages
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Template", name: "layout", widget: "select", options: [ { label: "Page", value: "layouts/page.njk" }, { label: "Section", value: "layouts/section.njk" } ] }
+      - { label: "Permalink", hint: "Relative URL for this page, needs to be unique. For example /chapter/content/index.html or for a chapter /chapter/index.html . It needs to end in .html to work, if you by accident saved a page without html the page needs to be deleted.", name: "permalink", widget: "string" }
+      - label: "Main navigation"
+        name: "eleventyNavigation"
+        widget: "object"
+        fields: 
+           - { label: "Navigation section or name in navigation", name: "key", widget: "string", required: true }
+           - { label: "Navigation parent section", name: "parent", widget: "string", required: false }
+           - { label: "Navigation part name", hint: "If you are adding a main section add <strong>Part 1</strong>Section name to this field", name: "title", widget: "string", required: false }
+           - { label: "Navigation oder", hint: "Order within a section, if empty pages are sorted by title", name: "order", widget: "string", required: false }
+      - label: "Page navigation"
+        name: "pageNavigation"
+        widget: "object"
+        fields: 
+            - { label: "Previous page", name: "back", widget: "relation", collection: "pages", searchFields: ["title"],valueField: "permalink",displayFields: ["title", "permalink"], required: false }
+            - { label: "Next page", name: "next", widget: "relation", collection: "pages", searchFields: ["title"],valueField: "permalink",displayFields: ["title", "permalink"], required: false }
+            - { label: "Next ad", name: "nexta", hint: "Selecting ad will overwrite next page.", widget: "relation", collection: "ads", searchFields: ["title"],valueField: "permalink",displayFields: ["title", "permalink"], required: false }
+            - { label: "Next page label", name: "nextLabel", widget: "string", required: false }
+      - label: "Download link"
+        name: "dl"
+        widget: "object"
+        fields: 
+            - { label: "Download File", hint: "Full URL of a global accessible file", name: "download", widget: "file", required: false }
+            - { label: "Download Link Label", name: "downloadLabel", widget: "string", required: false }
+      - { label: "Body", name: "body", widget: "markdown", buttons: ["link","italic","heading-two","headings","bulleted-list","numbered-list"], required: false, hint: "Use Inline Image for adding images with captions and links" }

@@ -1,34 +1,59 @@
-# Freshers
+# Art Freshers’ Guide to the Art World
 
-## What is it
-- single page web publication which works accross devices and platforms
-- guide for art freshers to 5?? cities in the uk (more to come, suggest new content via ticket or a pull request)
+An ebook for UK Art Freshers
 
-## Why did we make it
+## [Live site](https://github.com/ArtRabbit/freshers)
+
+## What is in this repository
+
+The source code and content for the ebook. Freshers is build as a static website using the [Eleventy](https://www.11ty.io/) static site generator, with a [Netlify CMS](https://www.netlifycms.org/) baked-in, and is deployed and hosted on [Netlify](https://www.netlify.com).
+
+## Technology used
+
+* Static site generated with Eleventy
+* Gulp for workflow tooling and responsive images
+* Netlify CMS with editor previews
+* Uses Markdown files for content
+* Continuous Deployment workflow via Netlify
+
+## Install locally
+
+### 1. Clone this repository:
+
+```
+git clone https://github.com/ArtRabbit/freshers.git my-clone
+```
 
 
-## Help us improve
-If you find any problems or inaccuracies, please raise a ticket.
+### 2. Navigate to the directory
 
-## Contributing
-We encurage contributions to this guide and accept pull requests. New versions of this guide will be released each year in September.
+```
+cd my-clone
+```
 
-### Technical overview
-- single HTML page with inline CSS and Javascript for fast performance 
-- progressive enhancements via Javascript: 
-  - smooth scrolling on more browsers that don't support scroll-behavior:smooth (https://zengabor.github.io/zenscroll/)
-  - lazyloading of images (https://github.com/aFarkas/lazysizes)
-  - service worker for caching
+Specifically have a look at `.eleventy.js` to see if you want to configure any Eleventy options differently.
 
-### Adding content
-Content can be added by editing the HTML structure. New sections need to be manually added to the navigation section.
+### 3. Install dependencies
 
-## Reuse and License
-If you reuse this project let us know, we'd like to hear about it and will list sister projects on this page.
+```
+yarn
+```
 
-The software of this guide is licensed under GPL 3.0. The full license is available in LICENSE.
+### 4. Edit src/_data/metadata.json
 
-The content of this guide is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/). Full license is available in LICENSE-CONTENT.md.
+This file contains your site title and author details.
 
-## About ArtRabbit
+### 5. Start eleventy and watch for changes
 
+```
+yarn start
+```
+
+Or build:
+```
+yarn build
+```
+
+## Bug reports, feature requests, etc
+
+This is an ongoing project and we welcome contributions. Feel free to submit a PR.
