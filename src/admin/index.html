@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Netlify CMS</title>
+  </head>
+  <body>
+    <!-- Include the script that builds the page and powers Netlify CMS -->
+    <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
+    <!-- Include Netlify Identity for authentication -->
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+    <script type="module" src="/admin/preview-templates/index.js"></script>
+    
+    <script>
+    	CMS.registerEditorComponent({
+		  id: "image",
+		  label: "Image",
+		  fields: [ {name: 'image', label: 'Image', widget: 'image'},
+		  			{name: 'alt', label: 'Alt tag', widget: 'string'},
+		  			{name: 'caption', label: 'Caption', widget: 'string'},
+		  			{name: 'link', label: 'Link', widget: 'string'}
+		  		  ],
+		  pattern: /^{%\s?arimage\s?"(\S+)",\s?"(.+)",\s?"(.+)",\s?"(.+)"\s?%}/,
+		  fromBlock: function(match) {
+			return {
+			  image: match[1],
+			  alt: match[2],
+			  caption: match[3],
+			  link: match[4]
+			};
+		  },
+		  toBlock: function(obj) {
+			return '{% arimage "' + obj.image + '", "' + obj.alt + '", "' + obj.caption + '", "' + obj.link + '" %}';
+		  },
+		  toPreview: function(obj) {
+			return (
+			  `<figure>
+			  		<a href="${obj.link}">
+						<img src="${obj.image}" alt="${obj.alt}" >
+					</a>
+					<figcaption>${obj.caption}</figcaption>
+				</figure>`
+			
+			);
+		  }
+		});
+    
+		CMS.registerEditorComponent({
+		  id: "youtube",
+		  label: "Youtube",
+		  fields: [{name: 'id', label: 'Youtube Video ID'},{name:'alt', label: 'Alt tag for image'}],		  
+		  pattern: /^\@\[youtube]\(s?(\S+)\s?"([^"]*)"\)/,
+		  fromBlock: function(match) {
+			return {
+			  id: match[1],
+			  alt: match[2]
+			};
+		  },
+		  toBlock: function(obj) {
+			return '@[youtube](' + obj.id + ' "'+ obj.alt +'")';
+		  },
+		  toPreview: function(obj) {
+			return (
+			  '<img src="http://img.youtube.com/vi/' + obj.id + '/maxresdefault.jpg" alt="'+ obj.alt +'"/>'
+			);
+		  }
+		});
+		CMS.registerEditorComponent({
+		  id: "amazon",
+		  label: "Amazon",
+		  fields: [{name: 'link', label: 'Amazon product link', hint: 'Get the short text link when logged into the Amazon associates account.'},{name:'asin', label: 'Product code', hint: 'The product code  can be found after the /dp/ element in the url, for example https://www.amazon.co.uk/Sage-SES875BKS-Barista-Express-Machine/dp/PRODUCTCODE.'}],		  
+		  pattern: /^\@\[amazon]\(s?(\S+)\s?"([^"]*)"\)/,
+		  fromBlock: function(match) {
+			return {
+			  link: match[1],
+			  asin: match[2]
+			};
+		  },
+		  toBlock: function(obj) {
+			return '@[amazon](' + obj.link + ' "'+ obj.asin +'")';
+		  },
+		  toPreview: function(obj) {
+		  	const link = obj.link;
+		  	const asin = obj.asin;
+			return (
+			  `<a class="book" href="${link}" target="_blank">
+    	 	 		<img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=${asin}&Format=_SL250_&ID=AsinImage&MarketPlace=GB&ServiceVersion=20070822&WS=1&tag=artrabbit-21&language=en_GB" >
+    	  		</a>`
+			);
+		  }
+		});
+
+		
+    </script>
+    
+  </body>
+</html>
