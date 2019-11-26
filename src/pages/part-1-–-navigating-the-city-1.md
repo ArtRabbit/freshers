@@ -6,8 +6,8 @@ permalink: /navigating-the-city/introduction/index.html
 eleventyNavigation:
   key: Introduction
   order: '0'
-  parent: Navigating the City
-  title: Part 1
+  parent: Part 1 - Navigating the City
+  title: ''
 pageNavigation:
   back: /navigating-the-city/index.html
   next: /aberdeen/index.html
