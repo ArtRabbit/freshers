@@ -1,5 +1,5 @@
 ---
-title: Part 1 – Navigating the City
+title: Navigating the City
 date: 2019-11-26T18:43:25.663Z
 layout: layouts/page.njk
 permalink: /navigating-the-city/introduction/index.html
