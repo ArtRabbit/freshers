@@ -8,7 +8,7 @@ eleventyNavigation:
   order: '1'
 pageNavigation:
   back: /introduction-start-with-art/index.html
-  next: /aberdeen/index.html
+  next: ''
   nextLabel: Aberdeen
 ---
 
