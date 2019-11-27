@@ -11,6 +11,7 @@ pageNavigation:
   back: /aberdeen/index.html
   next: /birmingham/index.html
   nextLabel: Birmingham
+  nexta: /ikon/index.html
 ---
 ## by The Edge
 
