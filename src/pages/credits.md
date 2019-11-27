@@ -9,6 +9,7 @@ eleventyNavigation:
   parent: About
 pageNavigation:
   back: /about/this-edition/index.html
+  next: /partners-and-supporters/index.html
   nextLabel: Partners & Supporters
 ---
 ## Editor-in-Chief
