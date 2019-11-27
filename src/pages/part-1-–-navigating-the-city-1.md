@@ -5,7 +5,7 @@ layout: layouts/page.njk
 permalink: /navigating-the-city/introduction/index.html
 eleventyNavigation:
   key: Introduction
-  order: '0'
+  order: '1'
   parent: Part 1 – Navigating the City
   title: ''
 pageNavigation:
@@ -21,8 +21,18 @@ While we’ve gathered feats and highlights of various cities from all corners o
 
 The cities we covered and partners we worked with this year underscores the must-visit destinations of the UK, with expertly curated art trails that makes discovering a city easy and fulfilling. Read on to explore the best ways the navigate each city.
 
-## Choose a city
+## Choose a city:
 
 1. [Aberdeen](/aberdeen)
-2. Bath
-3.
+2. [Bath](/bath/index.html)
+3. [Birmingham](/birmingham/)
+4. [Brighton](/brighton/)
+5. [Bristol](/bristol/)
+6. [Cardiff](/cardiff/)
+7. [Dundee](/dundee/)
+8. [Edinburgh](/edinburgh/index.html)
+9. [Glasgow](/glasgow/)
+10. [Leeds](/leeds/)
+11. [Liverpool](/liverpool/)
+12. [London](/london/)
+13. [Manchester](/manchester/)
