@@ -1,10 +1,10 @@
 ---
-title: 'Introduction - Start with Art '
+title: 'Start with Art '
 date: 2019-11-21T17:02:09.251Z
 layout: layouts/page.njk
 permalink: /introduction-start-with-art/index.html
 eleventyNavigation:
-  key: Introduction - Start with Art
+  key: Start with Art
 pageNavigation:
   back: /reading/index.html
   next: /navigating-the-city/index.html
