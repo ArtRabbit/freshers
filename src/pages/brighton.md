@@ -5,6 +5,7 @@ layout: layouts/page.njk
 permalink: /brighton/index.html
 eleventyNavigation:
   key: Brighton
+  order: '5'
   parent: Part 1 – Navigating the City
 pageNavigation:
   back: /birmingham/index.html
