@@ -5,6 +5,7 @@ layout: layouts/page.njk
 permalink: /artists-collecting-society-acs/index.html
 eleventyNavigation:
   key: Artists’ Collecting Society (ACS)
+  order: '2'
   parent: Part 2 – Organisations & Services
 pageNavigation:
   back: /artscouncil/index.html
