@@ -33,7 +33,7 @@ You can start your own artist inventory by completing each of these below:
 * Write a description and basic archival info
 * Record the status of the work, is it lend, on show, sold?  
 
-To make it easier for you to start, we created this downloadable template that lays out everything you need to include. Click through to download it. 
+To make it easier for you to start, we created this downloadable template that lays out everything you need to include. The template is licensed under Attribution-ShareAlike 4.0 International (CC BY-SA 4.0), which means you are free to share, copy and adapt with attribution to ArtRabbit, and share-alike.
 
 ## [Download inventory template](https://docs.google.com/spreadsheets/d/1uIN91CcL0-qHQ82wisGLun6I5CY1IfjGUUdogL_k8ds/edit#gid=270933523)
 
