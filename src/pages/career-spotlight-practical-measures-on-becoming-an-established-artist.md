@@ -11,6 +11,9 @@ pageNavigation:
   back: /art-jobs/index.html
   next: ''
   nextLabel: About
+dl:
+  download: /static/img/uploads/artrabbit-basic-document.pdf
+  downloadLabel: Download chapter as a PDF
 ---
 We get asked a lot about how to be successful in the art world. In fact, we find ourselves asking that from time to time as well. The art world is a huge place with way too many possible avenues to walk down, and it’s overwhelming to try and navigate the path to success when everyone seems to have different ideas on how to go about doing it. So we decided to make it easier for aspiring arts professionals to take concrete steps towards their own success stories. 
 
