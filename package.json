@@ -3,9 +3,9 @@
   "version": "1.0.1",
   "description": "Art Freshers 2019",
   "scripts": {
-    "start": "gulp build & gulp watch & ELEVENTY_ENV=dev eleventy --serve",
-    "prime": "gulp build & ELEVENTY_ENV=prime eleventy",
-    "build": "gulp build & ELEVENTY_ENV=prod eleventy"
+    "start": "gulp build && gulp watch && ELEVENTY_ENV=dev eleventy --serve",
+    "prime": "gulp build && ELEVENTY_ENV=prime eleventy",
+    "build": "gulp build && ELEVENTY_ENV=prod eleventy"
   },
   "repository": {
     "type": "git",
