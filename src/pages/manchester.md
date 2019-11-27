@@ -9,7 +9,7 @@ eleventyNavigation:
   parent: Part 1 – Navigating the City
 pageNavigation:
   back: /london/index.html
-  next: organisations-and-services/index.html
+  next: /organisations-and-services/index.html
   nextLabel: Part 2
 ---
 ## by Centre for Chinese Contemporary Arts (CFCCA)
