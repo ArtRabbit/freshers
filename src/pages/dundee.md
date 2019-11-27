@@ -11,6 +11,7 @@ pageNavigation:
   back: /cardiff/index.html
   next: /edinburgh/index.html
   nextLabel: Edinburgh
+  nexta: /jupiter-artland/index.html
 ---
 ## by Dundee Contemporary Arts
 
