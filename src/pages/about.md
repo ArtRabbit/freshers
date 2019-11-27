@@ -8,6 +8,7 @@ eleventyNavigation:
   order: '5'
 pageNavigation:
   back: /art-jobs/index.html
-  nextLabel: About this edition
+  next: /about/this-edition/index.html
+  nextLabel: About this Edition
 ---
 
