@@ -5,6 +5,7 @@ layout: layouts/page.njk
 permalink: /heritage-lottery-fund/index.html
 eleventyNavigation:
   key: 'Heritage Lottery Fund '
+  order: '5'
   parent: Part 2 – Organisations & Services
 pageNavigation:
   back: /dacs/index.html
