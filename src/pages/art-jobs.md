@@ -5,11 +5,12 @@ layout: layouts/page.njk
 permalink: /art-jobs/index.html
 eleventyNavigation:
   key: Art Jobs
+  order: '5'
   parent: Part 4 - Professional Development
 pageNavigation:
   back: /art-opps/index.html
-  next: /about-artrabbit/index.html
-  nextLabel: End
+  next: /career-spotlight-becoming-an-established-artist
+  nextLabel: 'Career Spotlight: Artists'
 ---
 Getting experience that’s relevant to your field of study while earning some cash is always an admirable goal, but art jobs don’t come easily in the best of times. Luckily for you, we have just the right resources to start the search for your dream job.
 
