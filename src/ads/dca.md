@@ -5,5 +5,8 @@ permalink: /dca/index.html
 image: /static/img/uploads/dca-webbanner.jpg
 link: 'https://www.dca.org.uk/'
 layout: layouts/ad
+pageNavigation:
+  next: /dundee/index.html
+  nextLabel: Dundee
 ---
 
