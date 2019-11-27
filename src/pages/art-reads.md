@@ -5,6 +5,7 @@ layout: layouts/page.njk
 permalink: /art-reads/index.html
 eleventyNavigation:
   key: Art Reads
+  order: '2'
   parent: Part 3 - Inspiration
 pageNavigation:
   back: /inspiration/voices-to-follow/index.html
