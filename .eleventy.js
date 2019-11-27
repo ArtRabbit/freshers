@@ -13,18 +13,6 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
 	
   eleventyConfig.addNunjucksShortcode("arimage", function(image, alt, caption, link) {
-  	var uploadRegEx = /img\/uploads/gi;
-  	var srcRegEx = /\/src\//gi;
-  	var newImage = image.replace(uploadRegEx,'img/processed');
-  	newImage = newImage.replace(srcRegEx,'/');
-  	var newImageParts = newImage.split('.');
-  	
-  	var captionOutput = '';
-  	if ( caption != undefined ) {
-  		if (caption != '') {
-  		  captionOutput = `<figcaption>${caption}</figcaption>`;
-  		}
-  	}
   	var linkStart = '';
   	var linkEnd = '';
   	if ( link != undefined ) {
@@ -33,6 +21,26 @@ module.exports = function(eleventyConfig) {
   			linkEnd = `</a>`;
   		}
   	}
+  	var captionOutput = '';
+  	if ( caption != undefined ) {
+  		if (caption != '') {
+  		  captionOutput = `<figcaption>${caption}</figcaption>`;
+  		}
+  	}
+  	if ( image.indexOf('https://') > -1 ) {
+  		return `<figure>
+				${linkStart}
+					<img src="${image}" alt="${alt}" >
+				${linkEnd}
+				${captionOutput}
+			</figure>`;
+  		
+  	}
+  	var uploadRegEx = /img\/uploads/gi;
+  	var srcRegEx = /\/src\//gi;
+  	var newImage = image.replace(uploadRegEx,'img/processed');
+  	newImage = newImage.replace(srcRegEx,'/');
+  	var newImageParts = newImage.split('.');
   	
   	return `<figure>
 				${linkStart}
