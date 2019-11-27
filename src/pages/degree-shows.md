@@ -5,10 +5,12 @@ layout: layouts/page.njk
 permalink: /degree-shows/index.html
 eleventyNavigation:
   key: Degree Shows
+  order: '3'
   parent: Part 4 - Professional Development
 pageNavigation:
   back: /art-school-and-uni-open-days/index.html
-  next: /career-spotlight-becoming-an-established-artist
+  next: /art-opps/index.html
+  nextLabel: Art Opps
 ---
 From early May until late September, art and design schools from across the UK host graduate shows presenting the work of their final year students. These exhibitions are a culmination of all the hard work that students put into their studies throughout their time at uni, and it’s from this that galleries and collectors find their next generation of talent. As art students, attending as many degree shows as you can is the best way to see what other talents are being harvested - and what you’re up against.
 
