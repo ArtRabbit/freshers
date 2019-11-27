@@ -8,7 +8,7 @@ eleventyNavigation:
   order: '3'
 pageNavigation:
   back: /heritage-lottery-fund/index.html
-  next: /inspiration/voices-to-follow/index.html
-  nextLabel: Voices to Follow
+  next: /inspiration/introduction/index.html
+  nextLabel: Introduction
 ---
 
