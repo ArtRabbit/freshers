@@ -5,6 +5,7 @@ layout: layouts/page.njk
 permalink: /aberdeen/index.html
 eleventyNavigation:
   key: Aberdeen
+  order: '2'
   parent: Part 1 – Navigating the City
   title: ''
 pageNavigation:
