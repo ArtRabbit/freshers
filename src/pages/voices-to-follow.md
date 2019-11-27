@@ -20,7 +20,9 @@ A friend of ours once told us, “Whenever I see a statue of someone, I just thi
 
 @[youtube](8BTHeN45vcw "Alice Procter on the discomfort of her tours")
 
-ArtRabbit Instagram and Editorial
+
+
+**ArtRabbit Instagram and Editorial**
 
 Because you can’t be everywhere at once, ArtRabbit brings everywhere to you with our Instagram stories and editorial features. As a platform that champions arts and culture of all sorts, we’re often limited in how opinionated we can be so as to not alienate any of our audience. But that doesn’t mean we as editors don’t have opinions. Our insights and personal voice bubbles over into Instagram stories where we bring you on tours of select shows, happening weekly, if not more, and editorial features that tell you about specific art shows, general cultural atmospheres and forecasts in art trends. 
 
