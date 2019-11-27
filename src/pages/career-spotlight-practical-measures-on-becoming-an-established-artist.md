@@ -44,11 +44,9 @@ To make it easier for you to start, we created this downloadable template that l
 
 ## 2 Create a website or online portfolio
 
-It’s more or less true that if you don’t exist on the internet, you don’t really exist. The easiest way to be discovered is through the internet, and an impressive online portfolio is a great way to win over followers, make a sale, or get included in a curated show. With a growing number of resources to create websites, you can make your own online portfolio without breaking a sweat with one of these easy-to-use services.
+It’s more or less true that if you don’t exist on the internet, you don’t really exist. The easiest way to be discovered is through the internet, and an impressive online portfolio is a great way to win over followers, make a sale, or get included in a curated show. With a growing number of resources to create websites, you can make your own online portfolio without breaking a sweat with one of these easy-to-use services: Wordpress, SquareSpace, Cargo Collective, SiteGround. 
 
-Some of these services include Wordpress, SquareSpace, Cargo Collective, SiteGround. 
-
-If you're primarily interested in selling your work, try out-of-the box e-commerce sites: Shopify, WooCommerce, BigCommerce, or Big Cartel. 
+If you're primarily interested in selling your work, try out-of-the box e-commerce sites like Shopify, WooCommerce, BigCommerce, or Big Cartel. 
 
 ## 3 Create your own business cards
 
