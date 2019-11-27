@@ -20,4 +20,4 @@ No matter what career stage you’re in, trying to find your way into the cultur
 2. [Degree Shows](/degree-shows/index.html)
 3. [Art Opps](/art-opps/)
 4. [Art Jobs](/art-jobs/index.html)
-5. Career Spotlight
+5. [Career Spotlight: Artists](/career-spotlight-becoming-an-established-artist/)
