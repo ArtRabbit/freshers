@@ -16,4 +16,6 @@ From early May until late September, art and design schools from across the UK h
 
 Every year, in support of art students everywhere, we publish a [Degree Show Feature](https://www.artrabbit.com/events/uk-degree-shows-2019) that highlights all the exhibitions happening across the UK. Be sure to keep an eye out for it, and by the time it’s your year, you’ll be well-informed to put your best work forward.
 
-If you’re a part of or organising a show, regardless of the stage of your academic journey, be sure to list it on ArtRabbit. It’s the best way to promote yourself as a budding artist, and it’s absolutely free to do. List your show on ArtRabbit to be featured on our website, newsletters and app.
+If you’re a part of or organising a show, regardless of the stage of your academic journey, be sure to list it on ArtRabbit. It’s the best way to promote yourself as a budding artist, and it’s absolutely free to do. List your degree show on ArtRabbit to be featured on our website, newsletters and app. For a step-by-step of how to do this, [read our guide for artists](https://www.artrabbit.com/what-you-can-do/artists). 
+
+{% arimage "/static/img/uploads/degreeshows1120x800.jpg", "List your degree show on ArtRabbit to be featured on our website, newsletters and app", "List your degree show on ArtRabbit to be featured on our website, newsletters and app", "https://www.artrabbit.com/what-you-can-do/artists" %}
