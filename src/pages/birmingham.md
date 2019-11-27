@@ -5,6 +5,7 @@ layout: layouts/page.njk
 permalink: /birmingham/index.html
 eleventyNavigation:
   key: Birmingham
+  order: '4'
   parent: Part 1 – Navigating the City
 pageNavigation:
   back: /bath/index.html
