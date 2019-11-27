@@ -6,7 +6,7 @@ permalink: /art-school-and-uni-open-days/index.html
 eleventyNavigation:
   key: Art School and Uni Open Days
   order: '2'
-  parent: 'Part 4 - Professional Development '
+  parent: Part 4 - Professional Development
 pageNavigation:
   back: /professional-development/introduction/index.html
   next: /degree-shows/index.html
