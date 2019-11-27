@@ -126,7 +126,7 @@ Julian Schnabel’s feature-film on Basquiat. Not a massive fan of JMB’s portr
 
 [Watch here.](https://amzn.to/2NbAAkC)
 
-Documentaries
+## Documentaries
 
 **Abstract - The Art of Design, USA, 2019/2017**
 
