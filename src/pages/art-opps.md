@@ -5,17 +5,18 @@ layout: layouts/page.njk
 permalink: /art-opps/index.html
 eleventyNavigation:
   key: Art Opps
+  order: '4'
   parent: Part 4 - Professional Development
 pageNavigation:
-  back: /career-spotlight-becoming-an-established-artist
+  back: /degree-shows/index.html
   next: /art-jobs/index.html
   nextLabel: Art Jobs
 ---
 We may be a little biased, but we’re not alone in thinking that we have the best list of artist opportunities out there. Each week, we carefully select the open calls and opportunities that we think will benefit artists and other creatives in all stages of their career. The final product is an expertly editorialised list that has resulted in countless success stories. Be sure to check it out regularly to become one of them.
 
-\[banner]
+ARTRABBIT ART OPPS BANNER
 
-Some other great sources: 
+## Some other great sources: 
 
 [Arts Council Grants for the Arts](https://www.artscouncil.org.uk/funding-finder/grants-arts)
 
@@ -24,8 +25,6 @@ Some other great sources:
 [Artquest ](https://www.artquest.org.uk/opportunities/)
 
 [Crafts Council ](https://www.craftscouncil.org.uk/opportunities/all/)
-
-
 
 There are also some valuable perennial competitions that every aspiring artist should have on their radar. Entering in these competitions is an excellent way to gain experience, to build your CV, to network and gain access to valuable mentoring, and to earn money in order to pursue more ambitious projects. Most of these competitions are free to enter, and they are reputable within the industry, offering a good return for the amount of time it takes to submit work. While you’re free to apply to whichever open call tickles your fancy, we would always suggest that you make sure the organisations you’re applying to are reputable, and it’s always better if they’re free.
 
