@@ -5,6 +5,7 @@ layout: layouts/page.njk
 permalink: /dundee/index.html
 eleventyNavigation:
   key: Dundee
+  order: '8'
   parent: Part 1 – Navigating the City
 pageNavigation:
   back: /cardiff/index.html
