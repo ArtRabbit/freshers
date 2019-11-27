@@ -5,6 +5,7 @@ layout: layouts/page.njk
 permalink: /cardiff/index.html
 eleventyNavigation:
   key: Cardiff
+  order: '7'
   parent: Part 1 – Navigating the City
 pageNavigation:
   back: /bristol/index.html
