@@ -12,6 +12,7 @@ pageNavigation:
   back: /navigating-the-city/index.html
   next: /bath/index.html
   nextLabel: Bath
+  nexta: /the-edge/index.html
 ---
 ## by Peacock Visual Arts
 
