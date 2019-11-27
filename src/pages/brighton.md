@@ -11,6 +11,7 @@ pageNavigation:
   back: /birmingham/index.html
   next: /bristol/index.html
   nextLabel: Bristol
+  nexta: /spike-island/index.html
 ---
 ## by Phoenix Art Space
 
