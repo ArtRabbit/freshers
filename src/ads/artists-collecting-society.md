@@ -6,7 +6,7 @@ image: /static/img/uploads/acs-webbanner.jpg
 link: 'https://artistscollectingsociety.org/about-acs/'
 layout: layouts/ad
 pageNavigation:
-  back: /artscouncil/index.html
+  back: ''
   next: /artists-collecting-society-acs/index.html
   nextLabel: Artists' Collecting Society
 ---
