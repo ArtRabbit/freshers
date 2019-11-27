@@ -1,5 +1,5 @@
 ---
-title: 'Career Spotlight: Practical measures on becoming an established artist'
+title: 'Career Spotlight: Artists'
 date: 2019-11-21T17:56:27.324Z
 layout: layouts/page.njk
 permalink: /career-spotlight-becoming-an-established-artist/index.html
@@ -15,6 +15,8 @@ dl:
   download: /static/img/uploads/artrabbit-basic-document.pdf
   downloadLabel: Download chapter as a PDF
 ---
+## Practical measures on becoming an established artist
+
 We get asked a lot about how to be successful in the art world. In fact, we find ourselves asking that from time to time as well. The art world is a huge place with way too many possible avenues to walk down, and it’s overwhelming to try and navigate the path to success when everyone seems to have different ideas on how to go about doing it. So we decided to make it easier for aspiring arts professionals to take concrete steps towards their own success stories. 
 
 There are dozens of career paths within art and culture that you can follow. For this edition, we’re highlighting artists. As this edition expands, we’ll be covering more professions, so check back often and subscribe to our newsletter in order to receive updates about our career spotlights. 
