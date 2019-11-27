@@ -261,27 +261,7 @@ h1 {
 	}
 }
 
-.ol {
-	padding: 0px 0px 20px 0px;
-	list-style-type: none;
 
-	li {
-		@extend %has-arrow;
-		display: block;
-		font-size: 28px;
-		margin-bottom: 0;
-
-		a {
-			border-bottom: none;
-			color: $cPrimary;
-		}
-
-		&:before, &:after {
-			bottom: 9px;
-		}
-
-	}
-}
 
 .video-container { 
 	position: relative; 
