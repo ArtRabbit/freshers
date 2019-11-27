@@ -5,7 +5,7 @@ layout: layouts/page.njk
 permalink: /inspiration/introduction/index.html
 eleventyNavigation:
   key: Introduction
-  order: '0'
+  order: '1'
   parent: Part 3 - Inspiration
 pageNavigation:
   back: /inspiration/index.html
