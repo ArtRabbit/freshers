@@ -19,7 +19,7 @@ dl:
 
 We get asked a lot about how to be successful in the art world. In fact, we find ourselves asking that from time to time as well. The art world is a huge place with way too many possible avenues to walk down, and it’s overwhelming to try and navigate the path to success when everyone seems to have different ideas on how to go about doing it. So we decided to make it easier for aspiring arts professionals to take concrete steps towards their own success stories. 
 
-There are dozens of career paths within art and culture that you can follow. For this edition, we’re highlighting artists. As this edition expands, we’ll be covering more professions, so check back often and subscribe to our newsletter in order to receive updates about our career spotlights. 
+There are dozens of career paths within art and culture that you can follow. For this edition, we’re highlighting artists. As this edition expands, we’ll be covering more professions, so check back often and [subscribe to our newsletter](https://www.artrabbit.com/subscribe) to receive updates about our career spotlights. 
 
 {% arimage "https://i.imgur.com/FIcCGu7.gif", "Do you make money from your art?", "Do you make money from your art?", "https://imgur.com/gallery/crizCzc" %}
 
