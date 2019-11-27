@@ -28,4 +28,4 @@ The fourth and final section is on professional development, with an issue-speci
 
 This guide was created out of a sincere desire to bridge the gap in arts education, to provide an accessible resource that will make it easy and inspiring to dive into arts and culture. We hope you’ll find this guide useful, and that it’ll inspire you to participate in the cultural growth of the UK. You can be a part of the fabric that makes contemporary culture so vibrant and diverse by paying your local arts organisations a visit. Support these organisations by giving them a follow on social media or subscribing to their newsletters, and if you have the time, volunteering with local arts organisations is a great way to grow your own network whilst ensuring that they have the resources to continue producing interesting and important programmes. 
 
-Now, ready to see what arts and culture have to offer? Scroll down to start with art.
+Now, ready to see what arts and culture have to offer? Click through to start with art.
