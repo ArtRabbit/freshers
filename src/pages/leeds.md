@@ -8,8 +8,9 @@ eleventyNavigation:
   parent: Part 1 – Navigating the City
 pageNavigation:
   back: /glasgow/index.html
-  next: /liverpool/index.html
+  next: ''
   nextLabel: Liverpool
+  nexta: /output-gallery/index.html
 ---
 ## by The Tetley
 
