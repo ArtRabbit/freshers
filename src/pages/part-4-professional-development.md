@@ -8,7 +8,7 @@ eleventyNavigation:
   order: '4'
 pageNavigation:
   back: /art-films-and-documentaries/index.html
-  next: /art-school-and-uni-open-days/index.html
-  nextLabel: Uni Open Days
+  next: /professional-development/introduction/index.html
+  nextLabel: Introduction
 ---
-No matter what career stage you’re in, trying to find your way into the cultural sector can be daunting. At the same time, we’re told time and again that arts and culture as a profession is one of the most rewarding ones you can follow. We know there’s no straightforward way towards success in any career, and the arts is even more winding. If you’re overwhelmed by options, or at a loss about which next steps to follow, take a deep breath, relax, and read about practical ways you can start your journey to work in culture.
+
