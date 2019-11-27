@@ -5,5 +5,8 @@ permalink: /ikon/index.html
 image: /static/img/uploads/ikon-webbanner.jpg
 link: 'https://www.ikon-gallery.org/'
 layout: layouts/ad
+pageNavigation:
+  next: /birmingham/index.html
+  nextLabel: Birmingham
 ---
 
