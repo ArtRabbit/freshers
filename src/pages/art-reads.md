@@ -16,9 +16,9 @@ pageNavigation:
 
 **Aesthetica**
 
-Aesthetica is a beautifully designed magazine available in print and digital, a worldwide destination for art and culture. Its in-depth features foreground today’s most innovative practitioners across art, design, photography, architecture, music and film.
+[Aesthetica](https://www.aestheticamagazine.com/) is a beautifully designed magazine available in print and digital, a worldwide destination for art and culture. Its in-depth features foreground today’s most innovative practitioners across art, design, photography, architecture, music and film.
 
-[Subscribe or pick up a copy here.](https://www.aestheticamagazine.com/)
+{% arimage "/static/img/uploads/aesthetica-newsletter-image-1160-x-580.jpg", "Subscribe or pick up a copy of Aesthetica here.", "Subscribe or pick up a copy here.", "https://www.aestheticamagazine.com/" %}
 
 **Art Monthly**
 
