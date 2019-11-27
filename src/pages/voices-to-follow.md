@@ -24,29 +24,27 @@ A friend of ours once told us, “Whenever I see a statue of someone, I just thi
 
 **ArtRabbit Instagram and Editorial**
 
-Because you can’t be everywhere at once, ArtRabbit brings everywhere to you with our Instagram stories and editorial features. As a platform that champions arts and culture of all sorts, we’re often limited in how opinionated we can be so as to not alienate any of our audience. But that doesn’t mean we as editors don’t have opinions. Our insights and personal voice bubbles over into Instagram stories where we bring you on tours of select shows, happening weekly, if not more, and editorial features that tell you about specific art shows, general cultural atmospheres and forecasts in art trends. 
-
-[Subscribe to ArtRabbit’s newsletter](https://www.artrabbit.com/subscribe) and [follow us on Instagram](https://www.instagram.com/artrabbit/).
+Because you can’t be everywhere at once, ArtRabbit brings everywhere to you with our Instagram stories and editorial features. As a platform that champions arts and culture of all sorts, we’re often limited in how opinionated we can be so as to not alienate any of our audience. But that doesn’t mean we as editors don’t have opinions. Our insights and personal voice bubbles over into Instagram stories where we bring you on tours of select shows, happening weekly, if not more, and editorial features that tell you about specific art shows, general cultural atmospheres and forecasts in art trends. [Subscribe to ArtRabbit’s newsletter](https://www.artrabbit.com/subscribe) and [follow us on Instagram](https://www.instagram.com/artrabbit/).
 
 [Maria Popova - Brain Pickings](https://www.brainpickings.org/)
 
-Starting out as a weekly email to seven friends before becoming an ever-loved website and blog, Maria Popova’s Brain Pickings guides you through books, philosophy, culture and art with her quality writing that satisfies even the hungriest of souls starved of intellectual and creative stimuli. 
+Starting out as a weekly email to seven friends before becoming an ever-loved website and blog, Maria Popova’s Brain Pickings guides you through books, philosophy, culture and art with her quality writing that satisfies even the hungriest of souls starved of intellectual and creative stimuli. [Subscribe to Brain Pickings newsletter](https://www.brainpickings.org/) or [follow Maria on Twitter](https://twitter.com/brainpicker).
 
 [Dan Vo & LGBTQ Art Tours ](https://twitter.com/DanNouveau)
 
-Giving voice to an aspect of arts and culture that has too often been dismissed in history, Dan Vo founded the volunteer-led LGBTQ+ museum tours at the V & A in London and helped establish other similar programmes in museums and galleries throughout the UK. 
+Giving voice to an aspect of arts and culture that has too often been dismissed in history, Dan Vo founded the volunteer-led LGBTQ+ museum tours at the V & A in London and helped establish other similar programmes in museums and galleries throughout the UK. [Follow Dan on Twitter](https://twitter.com/DanNouveau). 
 
 [Disability Arts Online](https://disabilityarts.online/)
 
-Providing a platform for sharing and critiquing arts and culture from disability perspectives. Disability Arts Online offers support through editorial, blogs, art showcases and more. Led by disabled people, with the goal of championing disabled artists, writers and professionals in culture, Disability Arts Online is informed by the Social Model of Disability, understanding that it is physical, attitudinal and institutional barriers which act to disable people in society. 
+Providing a platform for sharing and critiquing arts and culture from disability perspectives. Disability Arts Online offers support through editorial, blogs, art showcases and more. Led by disabled people, with the goal of championing disabled artists, writers and professionals in culture, Disability Arts Online is informed by the Social Model of Disability, understanding that it is physical, attitudinal and institutional barriers which act to disable people in society. [Follow Disability Arts on Twitter](https://twitter.com/disabilityarts). 
 
 [Farzana Khan & Voices that shake ](https://www.voicesthatshake.org/)
 
-A lot of people talk about change but few actually take the steps to implement it. Farzana, on the other hand, has initiated programmes in order to affect positive change and invaluable contributions to the community, including founding Healing Justice London and running Voices That Shake of Platform. Follow Voices that Shake on [Twitter](https://twitter.com/voicesthatSHAKE). 
+A lot of people talk about change but few actually take the steps to implement it. Farzana, on the other hand, has initiated programmes in order to affect positive change and invaluable contributions to the community, including founding Healing Justice London and running Voices That Shake of Platform. [Follow Voices that Shake on Twitter](https://twitter.com/voicesthatSHAKE). 
 
 [Jerry Gogosian](https://www.instagram.com/jerrygogosian)
 
-Taking the namesake of the world’s foremost art critic and blue chip gallery founder (Jerry Saltz and Larry Gagosian), this Instagram account speaks in memes to illustrate the hilarious, contradictory, often absurd and sometimes beautiful parts of global art business.  
+Taking the namesake of the world’s foremost art critic and blue chip gallery founder (Jerry Saltz and Larry Gagosian), [this Instagram account](https://www.instagram.com/jerrygogosian/) speaks in memes to illustrate the hilarious, contradictory, often absurd and sometimes beautiful parts of global art business.  
 
 [Tabloid Art History ](https://twitter.com/TabloidArtHist)
 
