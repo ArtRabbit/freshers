@@ -6,7 +6,7 @@ image: /static/img/uploads/output-webbanner.jpg
 link: 'https://www.artrabbit.com/organisations/output-gallery'
 layout: layouts/ad
 pageNavigation:
-  back: /leeds/index.html
+  back: ''
   next: /liverpool/index.html
   nextLabel: Liverpool
 ---
