@@ -5,6 +5,7 @@ layout: layouts/page.njk
 permalink: /bristol/index.html
 eleventyNavigation:
   key: Bristol
+  order: '6'
   parent: Part 1 – Navigating the City
 pageNavigation:
   back: /brighton/index.html
