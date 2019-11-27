@@ -9,7 +9,7 @@ eleventyNavigation:
   parent: ''
 pageNavigation:
   back: /manchester/index.html
-  next: /artscouncil/index.html
-  nextLabel: Arts Council
+  next: /organisations-and-services/introduction/index.html
+  nextLabel: Introduction
 ---
 
