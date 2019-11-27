@@ -11,6 +11,7 @@ pageNavigation:
   back: /dundee/index.html
   next: /glasgow/index.html
   nextLabel: Glasgow
+  nexta: /cca-glasgow/index.html
 ---
 ## by Jupiter Artland
 
