@@ -5,7 +5,7 @@ layout: layouts/page.njk
 permalink: /art-films-and-documentaries/index.html
 eleventyNavigation:
   key: Art Films and Documentaries
-  order: '3'
+  order: '4'
   parent: Part 3 - Inspiration
 pageNavigation:
   back: /art-reads/index.html
