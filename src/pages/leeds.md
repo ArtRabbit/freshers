@@ -5,6 +5,7 @@ layout: layouts/page.njk
 permalink: /leeds/index.html
 eleventyNavigation:
   key: Leeds
+  order: '11'
   parent: Part 1 – Navigating the City
 pageNavigation:
   back: /glasgow/index.html
