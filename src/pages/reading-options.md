@@ -1,10 +1,10 @@
 ---
-title: Reading Options
+title: Reading
 date: 2019-11-21T16:54:50.674Z
 layout: layouts/page.njk
 permalink: /reading/index.html
 eleventyNavigation:
-  key: Reading Options
+  key: Reading
 pageNavigation:
   back: /
   next: /introduction-start-with-art/index.html
