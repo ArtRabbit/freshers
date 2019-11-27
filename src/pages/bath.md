@@ -5,6 +5,7 @@ layout: layouts/page.njk
 permalink: /bath/index.html
 eleventyNavigation:
   key: Bath
+  order: '3'
   parent: Part 1 – Navigating the City
 pageNavigation:
   back: /aberdeen/index.html
