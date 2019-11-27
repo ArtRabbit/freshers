@@ -14,13 +14,13 @@ pageNavigation:
 ---
 We get asked a lot about how to be successful in the art world. In fact, we find ourselves asking that from time to time as well. The art world is a huge place with way too many possible avenues to walk down, and it’s overwhelming to try and navigate the path to success when everyone seems to have different ideas on how to go about doing it. So we decided to make it easier for aspiring arts professionals to take concrete steps towards their own success stories. 
 
-{% arimage "https://external-preview.redd.it/TsJUC4_-4uRmCLwvy0t7GgA1_PRCyrPi5emEnaGrpHU.gif?format=mp4&s=046fe92c51814f88b91f7aece736b332b87a5419", "Do you make money with your art?", "Do you make money with your art?", "https://www.reddit.com/r/funny/comments/402di4/do_you_make_money_from_your_art/" %}
-
 There are dozens of career paths within art and culture that you can follow. For this edition, we’re highlighting artists. As this edition expands, we’ll be covering more professions, so check back often and subscribe to our newsletter in order to receive updates about our career spotlights. 
+
+{% arimage "/static/img/uploads/doyoumakemoney.jpg", "Do you make money from your art?", "Do you make money from your art?", "https://imgur.com/gallery/crizCzc" %}
 
 For aspiring artists, the million-pound question is not so much “how do I make a million pounds with art?” as it is “how do I sustain a modest living and maybe a few creature comforts with art?” And the truth of the matter is, there is no magic formula. Those of us working in culture all seem to know at least a few people who are baristas by day and artists by night, whose talents are outweighed by the reality of living in an unkind, capitalistic society that forces us to contribute to the pointless production of economy in order to put a roof over our heads. But while there is no shortcut to success (wealthy parents and powerful spouses notwithstanding), there are practical measures every aspiring artist can take in order to make their path to success as smooth as possible.
 
-## 1. Create an inventory of your work
+## 1 Create an inventory of your work
 
 Inventories are important for every artist to have in order to stay organised and on top of their creations. Especially if your work is object-oriented and positioned to sell, having an inventory allows for you to easily keep track of what you have and what you sell. Even if you only have a few works currently, it’s always a good idea to start early so that you don’t end up somewhere down the road with hundreds of works and no comprehensive inventory to keep track of everything. You can use an inventory software to organise your artwork, but if you’re just starting out and trying to save money, you can do this manually. 
 
@@ -40,21 +40,17 @@ Ready to start your inventory? To make it easier for you to start, we created th
 
 For mid-career artists with a bigger portfolio and more work to organise and a bigger budget to spend, there are several software programs available to help you create an inventory. 
 
-## 2. Create a website or online portfolio
+## 2 Create a website or online portfolio
 
 It’s more or less true that if you don’t exist on the internet, you don’t really exist. The easiest way to be discovered is through the internet, and an impressive online portfolio is a great way to win over followers, make a sale, or get included in a curated show. With a growing number of resources to create websites, you can make your own online portfolio without breaking a sweat with one of these easy-to-use services.
 
-[Wordpress, Squarespace, Cargo Collective, siteground
+Some of these services include Wordpress, SquareSpace, Cargo Collective, SiteGround. 
 
-To sell: e-commerce: Shopify, WooCommerce BigCommerce, or Big Cartel, or you can make a more traditional website and handle transactions privately.]
+If you're primarily interested in selling your work, try out of the box e-commerce sites: Shopify, WooCommerce, BigCommerce, or Big Cartel. 
 
-3 Create your own business cards
+## 3 Create your own business cards
 
-A little old school, but people still use them, and when you’re at an art opening and that 5th glass of wine has made it difficult to type your number into a stranger and potential patron’s phone, handing over a business card is just so much easier. We recommend one of these: 
-
-https://www.moo.com/uk/
-
-https://www.printed.com/
+A little old school, but people still use them, and when you’re at an art opening and that 5th glass of wine has made it difficult to type your number into a stranger and potential patron’s phone, handing over a business card is just so much easier. There are plenty of services out there, MOO, or Printed.com. 
 
 But as a creative, you can make your own from scratch. Do it with a stamp or painted on small pieces of paper board, and because you’re an artist, its DIY aesthetic will simply be a part of your charm. 
 
@@ -80,29 +76,17 @@ Remember that if you decide to sell on various platforms at the same time, you n
 
 There are many more but these are trustworthy, well established platforms that have been around for a long time, and they have sophisticated UX flows making it easy to use for both creators and end-users or potential buyers. 
 
-[Absolut Art](https://www.absolutart.com/uk/)
-
-[Artfinder ](https://www.artfinder.com)
-
-[Etsy](https://www.etsy.com/uk/)
-
-[Saatchi Art](https://www.saatchiart.com/)
-
-[UGALLERY ](https://www.ugallery.com/)
+[Absolut Art](https://www.absolutart.com/uk/), [Artfinder](https://www.artfinder.com), [Etsy](https://www.etsy.com/uk/), [Saatchi Art](https://www.saatchiart.com/), [UGALLERY ](https://www.ugallery.com/)
 
 **Markets, fairs and trade shows**
 
-- - -
-
-If you are interested in selling, You can contact local art galleries to see if they can exhibit your work. If all else fails, or if you don’t have access to other venues, you can contact coffee shops, music venues, restaurants, and other businesses that may be interested in displaying your art. For non-art specific venues, you can create small labels and place them next to your work. The labels should include your name, title of the work, your phone number or email and a price. 
+If you are interested in selling, you can contact local art galleries to see if they can exhibit your work. If all else fails, or if you don’t have access to other venues, you can contact coffee shops, music venues, restaurants, and other businesses that may be interested in displaying your art. For non-art specific venues, you can create small labels and place them next to your work. The labels should include your name, title of the work, your phone number or email and a price. 
 
 Find local and national arts and crafts markets, art fairs and trade shows where you can book a small booth, or partner up with other artists or groups to sell in a booth. 
 
 Start local, talk to friends and colleagues, and see what their experience is with your local markets and fairs. 
 
-On a national level, try something like: 
-
-https://www.theotherartfair.com/exhibiting
+On a national level, you can try [The Other Art Fair](https://www.theotherartfair.com/exhibiting). 
 
 ## 7 Sell Art Commissions
 
@@ -116,20 +100,15 @@ Price work comparably to artists with similar experience, media and exposure. Wh
 
 Offer a price range with cheaper and more expensive work so that you can target more people with different financial limits. Start lower (but don’t undersell yourself|!) You can always increase later on.
 
-Example:  
+**Example:**  
 
-Cost of material = £70
-
-Cost of framing/packaging/delivery (i.a.) = £20
-
-Hourly rate = £20
-
+Cost of material = £70\
+Cost of framing/packaging/delivery (i.a.) = £20\
+Your hourly rate = £20\
 Time spent on the artwork = 15 hours
 
-The formula is like this: 
-
-(Expenses x 2) + (Your hourly wage x time spent) = Price of artwork
-
+**The formula is like this:** \
+(Expenses x 2) + (Your hourly wage x time spent) = Price of artwork\
 (£90 x 2) + (£20 x 15) = £480
 
 ## 9 Networking
@@ -152,12 +131,8 @@ Once you’ve identified your target audience or market, promote yourself and yo
 
 Finding gallery representation is really hard and oftentimes based on luck. Gallerists like scouting their own talent. They attend exhibitions and events, look to Instagram or surf the web, so make sure you’ve covered all of the above points. What you definitely shouldn’t do is walk into a gallery and demand representation or send unsolicited work. It's not gonna work and you’ll come across like a telemarketer disrupting a romantic dinner with a call about a product that no one wants. If galleries accept work, they will say so on their website, and you’ll know then that it’s appropriate to send some over.
 
-Here are some good articles with sound advice on how to find representation: 
+Here are some good articles with sound advice on finding representation: 
 
-https://www.artsy.net/series/working-artists-guide/artsy-editorial-artists-gallery-representation
-
-https://www.artquest.org.uk/how-to-articles/ww-gallery-approaching-galleries-and-finding-opportunities/
-
-https://mymodernmet.com/gallery-artist-representation/
-
-https://www.artworkarchive.com/blog/6-do-s-and-don-ts-for-gallery-representation
+* [How Do Artists Get Gallery Representation on Artsy](https://www.artsy.net/series/working-artists-guide/artsy-editorial-artists-gallery-representation) 
+* [Approaching galleries and finding opportunities on Artquest](<approaching galleries and finding opportunities>)
+* [How to Successfully Find Gallery Representation as an Artist on My Modern Met](https://mymodernmet.com/gallery-artist-representation/)
