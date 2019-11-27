@@ -80,7 +80,7 @@ Filled with delightful illustrations, this book highlights the author’s person
 
 @[amazon](https://amzn.to/2KT3bbe "0141979615")
 
-Barry Schwabsky, Vitamin P3: New Perspectives in Painting
+**Barry Schwabsky, Vitamin P3: New Perspectives in Painting**
 
 A documentation of contemporary paintings, this book gives an account of the trends and movements of this classical medium in our time, making both a great coffee table book and an insightful study of visual culture.
 
