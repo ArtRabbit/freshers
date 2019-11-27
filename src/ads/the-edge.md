@@ -5,5 +5,8 @@ permalink: /the-edge/index.html
 image: /static/img/uploads/theedge-webbanner.jpg
 link: 'https://www.edgearts.org/'
 layout: layouts/ad
+pageNavigation:
+  next: /bath/index.html
+  nextLabel: Bath
 ---
 
