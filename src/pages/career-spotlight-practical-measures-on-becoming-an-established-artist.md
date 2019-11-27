@@ -12,8 +12,8 @@ pageNavigation:
   next: /about/index.html
   nextLabel: About
 dl:
-  download: /static/img/uploads/artrabbit-basic-document.pdf
-  downloadLabel: Download chapter as a PDF
+  download: ''
+  downloadLabel: ''
 ---
 ## Practical measures on becoming an established artist
 
