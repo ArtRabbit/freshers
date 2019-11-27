@@ -48,3 +48,37 @@ More fun freebies can be found with Tate Lates, happening the last Friday of eve
 If you prefer some (sort of) fresh city air over boozy artsy venues, Sculpture in the City is an annually rotating programme of sculptures scattered across London, each by internationally acclaimed artists. You can forge your own walking path from one to the next to create a make-your-own-art-adventure type of game.
 
 ## [Sculpture in the City](https://www.sculptureinthecity.org.uk/)
+
+## Sweet study spots
+
+Library air getting stale? 2000 words still outstanding on that paper due next week? We know that a change in environment can help get those creative juices flowing, so we’ve found a few sweet spots scattered around the city to help reinvigorate your will to study. Most of them offer WiFi and good coffee AKA just about everything you need to get your uni work done.
+
+[British Library](https://www.bl.uk/visit/opening-hours)Free WiFi available in the Library's London and Boston Spa Reading Rooms, and in all their public areas.
+
+[The Barbican Library](https://www.barbican.org.uk/your-visit/during-your-visit/library)Free WiFi and computers with internet access.
+
+[Barbican Centre](https://www.barbican.org.uk/)Free WiFi in the foyers.
+
+[The National Art Library - V&A](https://www.vam.ac.uk/info/national-art-library/)
+
+[Cafe OTO](https://www.cafeoto.co.uk/)Coffee Shop, Venue, Free WiFi.
+
+[LADA’s Study Room](http://thisisliveart.co.uk/resources/study-room/)The LADA Study Room is the core resource of the Live Art Development Agency and is a free, open access research facility used by artists, students, curators, academics, writers, researchers, historians and the curious to look at the work of specific artists or wider cultural histories and themes. Housing over 8000 titles, the Study Room is the largest publicly accessible library of Live Art related documentation and publications in the world.
+
+## Alternative and art cinemas
+
+Sure, Marvel films have their mass appeal, but sometimes we’re in the mood for something a little less mainstream. When it comes to indie and alternative, with itineraries full of interesting documentaries and experimental films, these cinemas do it best.
+
+[Barbican Cinema](https://www.barbican.org.uk/whats-on/cinema)
+
+[Close-Up Cinema](https://www.closeupfilmcentre.com/)
+
+[Curzon Bloomsbury](https://www.curzoncinemas.com/bloomsbury/info)
+
+[Curzon Goldsmiths](http://www.curzongoldsmiths.com/) 
+
+[Deptford Cinema](http://deptfordcinema.org/)
+
+[ICA](https://www.ica.art/films)
+
+[Rio Cinema](https://riocinema.org.uk/RioCinema.dll/Home)
