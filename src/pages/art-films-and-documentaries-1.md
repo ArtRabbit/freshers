@@ -216,7 +216,7 @@ Art historian Simon Schama profiles eight art masters and one of their works, fo
 
 [Watch here](https://amzn.to/2Dui6EJ)
 
-[Crumb, USA, 1994](https://www.youtube.com/watch?v=4FJiTCAmD4k)
+**Crumb, USA, 1994**
 
 A portrait of cartoonist Robert Crumb
 
@@ -224,7 +224,7 @@ A portrait of cartoonist Robert Crumb
 
 [Watch here](https://amzn.to/2N8eREZ)
 
-[Paris Is Burning, USA, 1990](https://www.youtube.com/watch?v=VVueHRtpBbg)
+**Paris Is Burning, USA, 1990**
 
 Documentary about the “house” culture of drag queens living in New York City, touching on topics about race and poverty.
 
