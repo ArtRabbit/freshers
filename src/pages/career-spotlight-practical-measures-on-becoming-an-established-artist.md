@@ -120,5 +120,5 @@ Finding gallery representation is really hard and oftentimes based on luck. Gall
 Here are some articles with sound advice on finding representation: 
 
 * [How Do Artists Get Gallery Representation on Artsy](https://www.artsy.net/series/working-artists-guide/artsy-editorial-artists-gallery-representation) 
-* [Approaching galleries and finding opportunities on Artquest](<approaching galleries and finding opportunities>)
+* [Approaching galleries and finding opportunities on Artquest](https://www.artquest.org.uk/how-to-articles/ww-gallery-approaching-galleries-and-finding-opportunities/)
 * [How to Successfully Find Gallery Representation as an Artist on My Modern Met](https://mymodernmet.com/gallery-artist-representation/)
