@@ -9,7 +9,7 @@ eleventyNavigation:
   parent: ''
 pageNavigation:
   back: /manchester/index.html
-  next: /artscouncil/index.html
-  nextLabel: Arts Council
+  next: /organisations-and-services/introduction/index.html
+  nextLabel: Introduction
 ---
-Arts and culture wouldn’t be the same (or even possible) without the organisations that dedicate their time and energy to ensuring that the arts are funded, accessible and fair. In the UK, these institutions are often in charge of distributing funding to projects and spaces that contribute to the cultural wealth of the nation. In addition, several of these organisations offer services and guidance to those who are looking to become a professional within arts and culture, with programmes aimed specifically at students to mid-career artists.
+
