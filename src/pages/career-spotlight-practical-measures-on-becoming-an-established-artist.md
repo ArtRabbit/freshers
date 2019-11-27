@@ -14,7 +14,7 @@ pageNavigation:
 ---
 We get asked a lot about how to be successful in the art world. In fact, we find ourselves asking that from time to time as well. The art world is a huge place with way too many possible avenues to walk down, and it’s overwhelming to try and navigate the path to success when everyone seems to have different ideas on how to go about doing it. So we decided to make it easier for aspiring arts professionals to take concrete steps towards their own success stories. 
 
-{% arimage "https://external-preview.redd.it/TsJUC4_-4uRmCLwvy0t7GgA1_PRCyrPi5emEnaGrpHU.gif?format=mp4&s=046fe92c51814f88b91f7aece736b332b87a5419", "Do you make money with your art?", "Do you make money with your art?", "https://www.reddit.com/r/funny/comments/402di4/do_you_make_money_from_your_art/" %}
+{% arimage "/static/img/uploads/doyoumakemoney.jpg", "Do you make money with your art?", "Do you make money with your art?", "https://www.reddit.com/r/funny/comments/402di4/do_you_make_money_from_your_art/" %}
 
 There are dozens of career paths within art and culture that you can follow. For this edition, we’re highlighting artists. As this edition expands, we’ll be covering more professions, so check back often and subscribe to our newsletter in order to receive updates about our career spotlights. 
 
