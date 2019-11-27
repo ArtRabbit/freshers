@@ -52,4 +52,4 @@ Although no longer active, Tabloid Art History has 2.5 years of celebrity papara
 
 [The White Pube](https://www.thewhitepube.co.uk/)
 
-A constant source of entertainment (and sometimes controversy), the White Pube are art critics who got tired of how exclusive, patriarchal and white-dominated the art world is and decided to create their own criticism platform. Never shying away from call-out culture and always ready to ask the uncomfortable questions about money, race or inequality, their content has both ruffled feathers and elicited applause.
+A constant source of entertainment (and sometimes controversy), the White Pube are art critics who got tired of how exclusive, patriarchal and white-dominated the art world is and decided to create their own criticism platform. Never shying away from call-out culture and always ready to ask the uncomfortable questions about money, race or inequality, their content has both ruffled feathers and elicited applause. [Follow The White Pube on Twitter](https://twitter.com/thewhitepube).
