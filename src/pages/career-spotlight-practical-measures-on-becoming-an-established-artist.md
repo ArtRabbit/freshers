@@ -4,7 +4,7 @@ date: 2019-11-21T17:56:27.324Z
 layout: layouts/page.njk
 permalink: /career-spotlight-becoming-an-established-artist/index.html
 eleventyNavigation:
-  key: Career Spotlight
+  key: 'Career Spotlight: Artists'
   order: '5'
   parent: Part 4 - Professional Development
 pageNavigation:
