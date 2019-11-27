@@ -8,7 +8,7 @@ eleventyNavigation:
   order: '0'
   parent: Part 2 – Organisations & Services
 pageNavigation:
-  back: organisations-and-services/index.html
+  back: /organisations-and-services/index.html
   next: /artscouncil/index.html
   nextLabel: Arts Council
 ---
