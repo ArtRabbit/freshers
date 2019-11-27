@@ -5,6 +5,7 @@ layout: layouts/page.njk
 permalink: /creative-united/index.html
 eleventyNavigation:
   key: Creative United
+  order: '3'
   parent: Part 2 – Organisations & Services
 pageNavigation:
   back: /artists-collecting-society-acs/index.html
