@@ -5,6 +5,7 @@ layout: layouts/page.njk
 permalink: /edinburgh/index.html
 eleventyNavigation:
   key: Edinburgh
+  order: '9'
   parent: Dundee Contemporary Arts
 pageNavigation:
   back: /dundee/index.html
