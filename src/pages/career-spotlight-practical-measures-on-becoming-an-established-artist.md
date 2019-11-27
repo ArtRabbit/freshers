@@ -2,14 +2,15 @@
 title: 'Career Spotlight: Practical measures on becoming an established artist'
 date: 2019-11-21T17:56:27.324Z
 layout: layouts/page.njk
-permalink: /career-spotlight-becoming-an-established-artist
+permalink: /career-spotlight-becoming-an-established-artist/index.html
 eleventyNavigation:
   key: Career Spotlight
+  order: '5'
   parent: Part 4 - Professional Development
 pageNavigation:
-  back: /degree-shows/index.html
-  next: /art-opps/index.html
-  nextLabel: Art Opps
+  back: /art-jobs/index.html
+  next: ''
+  nextLabel: About
 ---
 We get asked a lot about how to be successful in the art world. In fact, we find ourselves asking that from time to time as well. The art world is a huge place with way too many possible avenues to walk down, and it’s overwhelming to try and navigate the path to success when everyone seems to have different ideas on how to go about doing it. So we decided to make it easier for aspiring arts professionals to take concrete steps towards their own success stories. 
 
