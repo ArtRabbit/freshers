@@ -20,9 +20,4 @@ ArtRabbit is an independent digital art platform for serendipitous art discovery
 
 This Web Book and related material are licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/). 
 
-If you’d like to help maintain or expand this guide, please get in touch. Email us at <mailto:support@artrabbit.com>
-
-## More about
-
-1. [Who made this book](/credits/)
-2. [Our partners & supporters](/partners-and-supporters/)
+If you’d like to help maintain or expand this guide, please get in touch. Email us at [support@artrabbit.com](mailto:support@artrabbit.com)
