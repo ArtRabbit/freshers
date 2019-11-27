@@ -48,7 +48,7 @@ Taking the namesake of the world’s foremost art critic and blue chip gallery f
 
 [Tabloid Art History ](https://twitter.com/TabloidArtHist)
 
-Although no longer active, Tabloid Art History has 2.5 years of celebrity paparazzi photos paralleled with art history visuals to draw upon. Its popular Twitter feed serves as an archive of these pairings which prove that history does indeed repeat itself, at least in the way it looks. 
+Although no longer active, Tabloid Art History has 2.5 years of celebrity paparazzi photos paralleled with art history visuals to draw upon. [Its popular Twitter feed ](https://twitter.com/TabloidArtHist)serves as an archive of these pairings which prove that history does indeed repeat itself, at least in the way it looks. 
 
 [The White Pube](https://www.thewhitepube.co.uk/)
 
