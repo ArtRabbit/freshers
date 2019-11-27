@@ -16,6 +16,8 @@ We get asked a lot about how to be successful in the art world. In fact, we find
 
 There are dozens of career paths within art and culture that you can follow. For this edition, we’re highlighting artists. As this edition expands, we’ll be covering more professions, so check back often and subscribe to our newsletter in order to receive updates about our career spotlights. 
 
+{% arimage "/static/img/uploads/doyoumakemoney.jpg", "Do you make money from your art?", "Do you make money from your art?", "https://imgur.com/gallery/crizCzc" %}
+
 For aspiring artists, the million-pound question is not so much “how do I make a million pounds with art?” as it is “how do I sustain a modest living and maybe a few creature comforts with art?” And the truth of the matter is, there is no magic formula. Those of us working in culture all seem to know at least a few people who are baristas by day and artists by night, whose talents are outweighed by the reality of living in an unkind, capitalistic society that forces us to contribute to the pointless production of economy in order to put a roof over our heads. But while there is no shortcut to success (wealthy parents and powerful spouses notwithstanding), there are practical measures every aspiring artist can take in order to make their path to success as smooth as possible.
 
 ## 1 Create an inventory of your work
@@ -108,8 +110,6 @@ Time spent on the artwork = 15 hours
 **The formula is like this:** \
 (Expenses x 2) + (Your hourly wage x time spent) = Price of artwork\
 (£90 x 2) + (£20 x 15) = £480
-
-
 
 ## 9 Networking
 
