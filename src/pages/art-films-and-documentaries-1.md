@@ -20,7 +20,7 @@ A few hours out of every week is dedicated to some so-bad-that-it’s-good guilt
 
 Disaster strikes when a curator hires a public relations team to build some hype for his renowned museum.
 
-@[youtube](IcmMYzyVt5Y "Film Trailer for the Square, 2017")
+@[youtube](EUzRjRv0Ib0 "Film Trailer for the Square, 2017")
 
 [Watch here](https://amzn.to/2OE1NZF)
 
