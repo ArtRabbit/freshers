@@ -5,6 +5,7 @@ layout: layouts/page.njk
 permalink: /inspiration/voices-to-follow/index.html
 eleventyNavigation:
   key: Voices to Follow
+  order: '1'
   parent: Part 3 - Inspiration
 pageNavigation:
   back: /inspiration/index.html
