@@ -5,6 +5,7 @@ layout: layouts/page.njk
 permalink: /glasgow/index.html
 eleventyNavigation:
   key: Glasgow
+  order: '10'
   parent: Part 1 – Navigating the City
 pageNavigation:
   back: /edinburgh/index.html
