@@ -11,6 +11,7 @@ pageNavigation:
   back: /bristol/index.html
   next: /dundee/index.html
   nextLabel: Dundee
+  nexta: /dca/index.html
 ---
 ## by Artes Mundi
 
