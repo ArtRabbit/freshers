@@ -11,4 +11,4 @@ pageNavigation:
   nextLabel: Start with Art
   nexta: ''
 ---
-This is a web book, designed to be read on your mobile, tablet or desktop. For the best experience… If you’d prefer to have a copy in another format, you can download individual chapters as a PDF.
+This web book is designed to be read on your mobile, tablet or desktop. For the best experience start by tapping/clicking on the Welcome button and then follow the flow. To see an overview of all the chapters, tap/click on the burger menu in the top right corner. If you prefer to have a copy in another format, you can download our city chapters as a PDF.
