@@ -5,6 +5,7 @@ layout: layouts/page.njk
 permalink: /manchester/index.html
 eleventyNavigation:
   key: Manchester
+  order: '14'
   parent: Part 1 – Navigating the City
 pageNavigation:
   back: /london/index.html
