@@ -5,5 +5,8 @@ permalink: /cca-glasgow/index.html
 image: /static/img/uploads/cca-webbanner.jpg
 link: 'https://www.cca-glasgow.com/programme'
 layout: layouts/ad
+pageNavigation:
+  next: /glasgow/index.html
+  nextLabel: Glasgow
 ---
 
