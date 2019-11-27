@@ -5,5 +5,8 @@ permalink: /jupiter-artland/index.html
 image: /static/img/uploads/jupiterartland-webbanner.jpg
 link: 'https://www.jupiterartland.org/'
 layout: layouts/ad
+pageNavigation:
+  next: /edinburgh/index.html
+  nextLabel: Edinburgh
 ---
 
