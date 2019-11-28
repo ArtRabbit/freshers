@@ -49,9 +49,9 @@ else {
 var nb_videos = videos.length;
 for (var i=0; i<nb_videos; i++) {
 	// Based on the YouTube ID, we can easily find the thumbnail image
-	var videoId = videos[i].getAttribute("data-id");
-	videos[i].onclick = function() {
+	videos[i].onclick = function(e) {
 		// Create an iFrame with autoplay set to true
+		var videoId = e.target.parentNode.getAttribute("data-id");
 		var iframe = document.createElement("iframe");
 		var iframe_url = "https://www.youtube-nocookie.com/embed/" + videoId + "?autoplay=1&autohide=1";
 		if (this.getAttribute("data-params")) iframe_url+='&'+this.getAttribute("data-params");
