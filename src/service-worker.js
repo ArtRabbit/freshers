@@ -3,8 +3,8 @@ var cacheName = 'freshers2019_v01122019';
 
 // Default files to always cache
 var cacheFiles = [
-	'/_includes/assets/font/AvenirNextW06-Regular.woff2',
-	'/_includes/assets/font/AvenirNextW06-Bold.woff2'
+	'/_includes/assets/font/latolato-v16-latin-900.woff2',
+	'/_includes/assets/font/latolato-v16-latin-regular.woff2'
 ]
 
 
