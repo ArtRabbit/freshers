@@ -5,43 +5,36 @@
 Typography 
 ================================================================================================= */
 
-/*
+
+
+/* lato-regular - latin */
 @font-face {
-    font-family: 'AvenirNextW06-Demi';
-    src: url('font/AvenirNextW06-Demi.woff2') format('woff2'),
-        url('font/AvenirNextW06-Demi.woff') format('woff');
-    font-weight: bold;
-    font-style: normal;
-} 
-
-@font-face {
-    font-family: 'AvenirNextLTW01';
-    src: url('font/AvenirNextLTW01-Medium.woff2') format('woff2'),
-        url('font/AvenirNextLTW01-Medium.woff') format('woff');
-    font-weight: 500;
-    font-style: normal;
-}
-*/
-
-
-
-@font-face {
-    font-family: 'AvenirNextW06-Regular';
-    src: url('/_includes/assets/font/AvenirNextW06-Regular.woff2') format('woff2'),
-        url('font/AvenirNextW06-Regular.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  src: url('/_includes/assets/font/latolato-v16-latin-regular.eot'); /* IE9 Compat Modes */
+  src: local('Lato Regular'), local('Lato-Regular'),
+       url('/_includes/assets/font/latolato-v16-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('/_includes/assets/font/latolato-v16-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('/_includes/assets/font/latolato-v16-latin-regular.woff') format('woff'), /* Modern Browsers */
+       url('/_includes/assets/font/latolato-v16-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('/_includes/assets/font/latolato-v16-latin-regular.svg#Lato') format('svg'); /* Legacy iOS */
 }
 
-
-
+/* lato-900 - latin */
 @font-face {
-    font-family: 'AvenirNextW06';
-    src: url('/_includes/assets/font/AvenirNextW06-Bold.woff2') format('woff2'),
-        url('fontAvenirNextW06-Bold.woff') format('woff');
-    font-weight: bold;
-    font-style: normal;
+  font-family: 'LatoBold';
+  font-style: normal;
+  font-weight: 900;
+  src: url('/_includes/assets/font/latolato-v16-latin-900.eot'); /* IE9 Compat Modes */
+  src: local('Lato Black'), local('Lato-Black'),
+       url('/_includes/assets/font/latolato-v16-latin-900.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('/_includes/assets/font/latolato-v16-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
+       url('/_includes/assets/font/latolato-v16-latin-900.woff') format('woff'), /* Modern Browsers */
+       url('/_includes/assets/font/latolato-v16-latin-900.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('/_includes/assets/font/latolato-v16-latin-900.svg#Lato') format('svg'); /* Legacy iOS */
 }
+
 
 
 
