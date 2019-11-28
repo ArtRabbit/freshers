@@ -6,7 +6,7 @@ permalink: /edinburgh/index.html
 eleventyNavigation:
   key: Edinburgh
   order: '9'
-  parent: Dundee Contemporary Arts
+  parent: Part 1 – Navigating the City
 pageNavigation:
   back: /dundee/index.html
   next: /glasgow/index.html
