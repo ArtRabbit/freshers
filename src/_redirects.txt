@@ -1,0 +1,1 @@
+https://artfreshers.netlify.com/* https://freshers.artrabbit.com/:splat 301!

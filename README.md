@@ -2,7 +2,7 @@
 
 An ebook for UK Art Freshers
 
-## [Live site](https://github.com/ArtRabbit/freshers)
+## [Live site](https://freshers.artrabbit.com)
 
 ## What is in this repository
 

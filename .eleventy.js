@@ -105,6 +105,7 @@ module.exports = function(eleventyConfig) {
 
 
   // Don't process folders with static assets e.g. images
+  eleventyConfig.addPassthroughCopy( "src/_redirects" );
   eleventyConfig.addPassthroughCopy( "src/favicon.ico" );
   eleventyConfig.addPassthroughCopy( "src/favicon-32x32.png" );
   eleventyConfig.addPassthroughCopy( "src/favicon-16x16.png" );
