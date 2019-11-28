@@ -122,6 +122,8 @@ Julian Schnabel’s feature-film on Basquiat. Not a massive fan of JMB’s portr
 
 **My left foot, Ireland/UK, 1989**
 
+An autobiographical film about Christy Brown, an Irish writer and painter who could only write and type using the toes of one foot due to cerebral palsy. 
+
 @[youtube](A53YS5okE7E "Film trailer for My Left Foot, 1989")
 
 [Watch here.](https://amzn.to/2NbAAkC)
