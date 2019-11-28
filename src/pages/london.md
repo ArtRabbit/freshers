@@ -23,19 +23,17 @@ With London being an endlessly walkable city and so chock-full of inspiring art 
 
 The order of venues are only suggestions, so feel free to curate your own itinerary. While we wanted to highlight our favourite non-profit spaces and museums in this edition, there are lots more spaces and galleries nested in the different areas. For the most comprehensive gallery hopping experience, make sure to [download the ArtRabbit app](https://www.artrabbit.com/app).
 
-## Art Trails 
-
-
+## Art Trails
 
 ## Freebies
 
-One of the best things about art is that you can experience it freely no matter how little you have in your savings account. When you’re experienced enough, you’ll be able to organise your social calendar around the free wine at exhibition openings. Until then, use this freebies guide to find all the art that you can consume without costing you anything.
+One of the best things about art is that you can experience it freely no matter how little you have in your savings account. When you’re experienced enough, you’ll be able to organise your social calendar around the free refreshments at exhibition openings. Until then, use this freebies guide to find all the art that you can consume without costing you anything.
 
-Most commercial galleries will have rotating exhibitions that change every few weeks/other month, and they’ll be free to attend. Depending on the particular gallery, exhibition openings tend to fall on Thursday and Friday evenings, and those are great times to network with like-minded individuals while sipping free booze. Want to stay in the know? Be sure to subscribe to our[ location-specific weekly newsletters](https://www.artrabbit.com/subscribe) to get all the must-attend events near you beamed right to your inbox.
+Most commercial galleries will have rotating exhibitions that change every few weeks/other month, and they’ll be free to attend. Depending on the particular gallery, exhibition openings tend to fall on Thursday and Friday evenings, and those are great times to network with like-minded individuals while sipping free drinks. Want to stay in the know? Be sure to subscribe to our[ location-specific weekly newsletters](https://www.artrabbit.com/subscribe) to get all the must-attend events near you beamed right to your inbox.
 
 Project spaces tend to have artist-led initiatives rather than in-house curators. While the events that happen at such spaces vary in their scope, they’re largely free admission (or some by donation), and they house some spectacularly interesting projects that are experimental in nature.
 
-Regular collections at several larger museums and galleries will often do free admission, while their special exhibitions tend to have pricey entrance fees. Venues that fall under this camp are the Tate, the National Gallery and V&A.
+Regular collections at several larger museums and galleries will often offer free admission, while their special exhibitions tend to have pricey entrance fees. Venues that fall under this camp are the Tate, the National Gallery and V&A.
 
 Other freebies include public art, which is a great way to navigate through any city. The [City of London is home to an extensive collection](https://www.sculptureinthecity.org.uk/) of public artworks – from statues and memorials of historic significance to contemporary pieces by some of the world’s most renowned artists.
 
@@ -45,7 +43,7 @@ More fun freebies can be found with Tate Lates, happening the last Friday of eve
 
 ## [V&A Friday Late](https://www.vam.ac.uk/info/friday-late)
 
-If you prefer some (sort of) fresh city air over boozy artsy venues, Sculpture in the City is an annually rotating programme of sculptures scattered across London, each by internationally acclaimed artists. You can forge your own walking path from one to the next to create a make-your-own-art-adventure type of game.
+If you prefer some (sort of) fresh city air over (wine-infused) artsy venues, Sculpture in the City is an annually rotating programme of sculptures scattered across London, each by internationally acclaimed artists. You can forge your own walking path from one to the next to create a make-your-own-art-adventure type of game.
 
 ## [Sculpture in the City](https://www.sculptureinthecity.org.uk/)
 
@@ -53,17 +51,22 @@ If you prefer some (sort of) fresh city air over boozy artsy venues, Sculpture i
 
 Library air getting stale? 2000 words still outstanding on that paper due next week? We know that a change in environment can help get those creative juices flowing, so we’ve found a few sweet spots scattered around the city to help reinvigorate your will to study. Most of them offer WiFi and good coffee AKA just about everything you need to get your uni work done.
 
-[British Library](https://www.bl.uk/visit/opening-hours)Free WiFi available in the Library's London and Boston Spa Reading Rooms, and in all their public areas.
+[British Library](https://www.bl.uk/visit/opening-hours) \
+Free WiFi available in the Library's London and Boston Spa Reading Rooms, and in all their public areas.
 
-[The Barbican Library](https://www.barbican.org.uk/your-visit/during-your-visit/library)Free WiFi and computers with internet access.
+[The Barbican Library](https://www.barbican.org.uk/your-visit/during-your-visit/library) \
+Free WiFi and computers with internet access.
 
-[Barbican Centre](https://www.barbican.org.uk/)Free WiFi in the foyers.
+[Barbican Centre](https://www.barbican.org.uk/) \
+Free WiFi in the foyers.
 
 [The National Art Library - V&A](https://www.vam.ac.uk/info/national-art-library/)
 
-[Cafe OTO](https://www.cafeoto.co.uk/)Coffee Shop, Venue, Free WiFi.
+[Cafe OTO](https://www.cafeoto.co.uk/) \
+Coffee Shop, Venue, Free WiFi.
 
-[LADA’s Study Room](http://thisisliveart.co.uk/resources/study-room/)The LADA Study Room is the core resource of the Live Art Development Agency and is a free, open access research facility used by artists, students, curators, academics, writers, researchers, historians and the curious to look at the work of specific artists or wider cultural histories and themes. Housing over 8000 titles, the Study Room is the largest publicly accessible library of Live Art related documentation and publications in the world.
+[LADA’s Study Room](http://thisisliveart.co.uk/resources/study-room/) \
+The LADA Study Room is the core resource of the Live Art Development Agency and is a free, open access research facility used by artists, students, curators, academics, writers, researchers, historians and the curious to look at the work of specific artists or wider cultural histories and themes. Housing over 8000 titles, the Study Room is the largest publicly accessible library of Live Art related documentation and publications in the world.
 
 ## Alternative and art cinemas
 
