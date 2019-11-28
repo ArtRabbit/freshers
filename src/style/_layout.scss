@@ -97,6 +97,19 @@ nav + main { // first text block to be fullheigt
 	padding: $headerHeight 0px 0px 0px;
 	overflow: hidden;
 
+	&.ad {
+		padding-top: 0;
+	}
+	
+	.ad.fullheight.fixed {
+		top: 0;
+		height: 100vh;
+	}
+	
+	.ad img {
+		height: 100%;
+	}
+
 	@include respond-to(tablet-portrait) {  
 	} 
 
