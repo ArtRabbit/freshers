@@ -25,6 +25,8 @@ The order of venues are only suggestions, so feel free to curate your own itiner
 
 ## Art Trails
 
+<<In edit>>
+
 ## Freebies
 
 One of the best things about art is that you can experience it freely no matter how little you have in your savings account. When you’re experienced enough, you’ll be able to organise your social calendar around the free refreshments at exhibition openings. Until then, use this freebies guide to find all the art that you can consume without costing you anything.
@@ -85,3 +87,7 @@ Sure, Marvel films have their mass appeal, but sometimes we’re in the mood for
 [ICA](https://www.ica.art/films)
 
 [Rio Cinema](https://riocinema.org.uk/RioCinema.dll/Home)
+
+## Adornments for your calendar
+
+<<In edit>>
