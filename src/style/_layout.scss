@@ -110,11 +110,6 @@ nav + main { // first text block to be fullheigt
 		height: 100%;
 	}
 
-	@include respond-to(tablet-portrait) {  
-	} 
-
-	@include respond-to(desktop) {  
-	}  
 }  
  
 
