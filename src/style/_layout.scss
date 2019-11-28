@@ -80,7 +80,7 @@ nav + main { // first text block to be fullheigt
 	//height: 1px;
 
 	article {
-		min-height: calc(100vh - #{$headerHeight}); 
+		min-height: calc(100vh - #{$headerHeight});
 	}
 
 }
@@ -99,17 +99,27 @@ nav + main { // first text block to be fullheigt
 
 	&.ad {
 		padding-top: 0;
+		height:100vh;
+		height: calc(var(--vh, 1vh) * 100);
+    	transition: 1s;  
 	}
 	
 	.ad.fullheight.fixed {
 		top: 0;
 		height: 100vh;
+		height: calc(var(--vh, 1vh) * 100);
+    	transition: 1s;  
 	}
 	
 	.ad img {
 		height: 100%;
 	}
 
+	@include respond-to(tablet-portrait) {  
+	} 
+
+	@include respond-to(desktop) {  
+	}  
 }  
  
 
