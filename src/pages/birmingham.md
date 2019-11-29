@@ -96,7 +96,7 @@ Flatpack is Birmingham’s annual independent film festival. Taking over various
 
 [Fierce](https://wearefierce.org/)
 
-2020 edition TBA
+2021 edition TBA
 
 Fierce is a bi-annual Live Art festival with an international reputation for emerging, overlooked, unusual & difficult live art practices from around the world. Events take place across the city with performances in theatres, galleries and other out-of-the-ordinary spaces, including a big party with DJs to kick off the festival.
 
