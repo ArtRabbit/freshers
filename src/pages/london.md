@@ -146,6 +146,12 @@ August
 
 Frieze Week, with [Frieze](https://www.artrabbit.com/events/frieze-london-2020)/[Frieze Master](https://www.artrabbit.com/events/frieze-masters-2020), 8 - 11 Oct 2020, Regent's Park
 
+[BFI London Film Festival](https://whatson.bfi.org.uk/lff/Online/), TBC
+
 [Art Licks Weekend](https://artlicksweekend.com/), TBA, Various Locations
 
 [1:54 Contemporary African Art Fair](https://www.1-54.com/london/), TBA, Somerset House
+
+**November** 
+
+[Korean Film Festival](http://koreanfilm.co.uk/), TBC, in cinemas across the city
