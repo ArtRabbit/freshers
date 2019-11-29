@@ -88,8 +88,8 @@ Chinese New Year is a time of great festivity in Manchester’s city centre and 
 
 Manchester Literature Festival brings top names in the literary world to various venues throughout Manchester every October. This year sees the likes of Alexander McCall Smith, Kate Atkinson and Kate Mosse alongside Jo Brand and Graham Norton. They also host literary walking tours including the infamous Punk Poet Pub Tour.
 
-[Sounds from the other city](https://www.soundsfromtheothercity.com/)
+[Sounds from the Other City](https://www.soundsfromtheothercity.com/)
 
 Representing the best in new music from Salford and beyond.
 
-Follow CFCCA on [Twitter](https://twitter.com/cfcca_uk), [Facebook](https://www.facebook.com/cfccauk) or [Instagram](http://instagram.com/@cfcca_uk).
+Follow CFCCA on [Twitter](https://twitter.com/cfcca_uk), [Facebook](https://www.facebook.com/cfccauk) or [Instagram](https://www.instagram.com/cfcca_uk/).
