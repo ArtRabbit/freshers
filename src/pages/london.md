@@ -90,4 +90,62 @@ Sure, Marvel films have their mass appeal, but sometimes we’re in the mood for
 
 ## Adornments for your calendar
 
-<<In edit>>
+In 2020, these important events are must-attends for every art student and (emerging) art professional. Keep this list with you throughout the year, or [join ArtRabbit and save them to get reminders before they start](https://www.artrabbit.com/) so that your event calendar will never miss a beat.
+
+**January**
+
+[Brent2020, London Borough of Culture](https://www.brent2020.co.uk/), Jan - Dec 2020, Brent 
+
+[London Art Fair](https://www.artrabbit.com/events/london-art-fair-2020), 22 - 26 Jan 2020, The Business Design Centre
+
+[Condo London](http://www.condocomplex.org/), Jan - Feb 2020, Various Locations
+
+**May** 
+
+[Block Universe](https://www.artrabbit.com/events/block-universe-2019), May-Jun 2020, TBA
+
+[Degree Shows](https://www.artrabbit.com/events/uk-degree-shows-2020), between May and Oct 2020, Various Locations
+
+**June**
+
+[Serpentine Pavilion](https://www.artrabbit.com/organisations/serpentine-galleries), TBC, between Jun - Oct 2020, Hyde Park
+
+[Lift Festival](https://www.liftfestival.com/blog/), TBC, May/Jun 2020, Various Locations
+
+[Art Night](https://www.artrabbit.com/events/artnight-2020), 20-21 Jun 2020, Various Locations
+
+[Greenwich+Docklands International Festival (GDIF)](https://www.artrabbit.com/events/greenwichdocklands-international-festival-2020), 19 Jun - 4 Jul 2020, Greenwich & Docklands
+
+[Pride in London](https://prideinlondon.org/), 27 Jun 2020, Central London 
+
+[London Festival of Architecture](https://www.artrabbit.com/events/london-festival-of-architecture-2020), 1 - 30 Jun 2020, Various Locations 
+
+**July** 
+
+[Buckingham Palace Tour](https://www.rct.uk/visit/the-state-rooms-buckingham-palace), 18 Jul - 27 Sep 2020, Various Locations
+
+August 
+
+[Notting Hill Carnival](https://nhcarnival.org/), 30 - 31 Aug 2020, Notting Hill 
+
+**September** 
+
+[Deptford X 2020](https://deptfordx.org/aboutdeptfordx/), TBA, Deptford 
+
+[Turner Prize](https://www.artrabbit.com/events/turner-prize-2020), 30 Sep 2020 - 3 Jan 2021, Tate Britain
+
+[London Design Biennale](https://www.artrabbit.com/events/london-design-biennale-2020), 8 - 27 Sep 2020, Somerset House
+
+[London Design Festival](https://www.artrabbit.com/events/london-design-festival-2020), 12-20 Sep 2020, Various Locations 
+
+[Emerge Festival](https://emergefestival.co.uk/), Sep 2020, TBA 
+
+[Totally Thames](https://totallythames.org/), Sep 2020, TBA 
+
+**October** 
+
+Frieze Week, with [Frieze/Frieze Master](https://www.artrabbit.com/events/frieze-london-frieze-masters-2020), 8 - 11 Oct 2020, Regents Park
+
+[Art Licks Weekend](https://artlicksweekend.com/), TBA, Various Locations
+
+[1:54 Contemporary African Art Fair](https://www.1-54.com/london/), TBA, Somerset House
