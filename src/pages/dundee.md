@@ -17,7 +17,7 @@ pageNavigation:
 
 Dundee, located in the eastern central lowlands of Scotland, was historically known for three things: Jute, Jam and Journalism. While the jute trade may have died down, jam and journalism are still going strong, and the city has added many cultural gems over the years, plus it's the UK's first (and only) UNESCO City of Design.
 
-Of particular significance to the arts in the Scottish lowlands is Dundee Contemporary Arts (DCA). Located in the heart of the city, DCA is an internationally renowned centre for contemporary art that enables audiences, artists and participants to see, experience and create. They house two beautiful large-scale gallery spaces, two thriving cinema screens, a busy print studio, an award-winning learning programme, and a packed programme of events, workshops, classes and activities. 2019 marks our 20th birthday and we’re spending the whole year celebrating with special events, film screenings and more.
+Of particular significance to the arts in the Scottish lowlands is Dundee Contemporary Arts (DCA). Located in the heart of the city, DCA is an internationally renowned centre for contemporary art that enables audiences, artists and participants to see, experience and create. They house two beautiful large-scale gallery spaces, two thriving cinema screens, a busy print studio, an award-winning learning programme, and a packed programme of events, workshops, classes and activities. 2019 marks DCA's 20th birthday and they are spending the whole year celebrating with special events, film screenings and more.
 
 Below are the cultural gems to be found throughout Dundee, as chosen by Helen Macdonald, Communications Coordinator at DCA.
 
@@ -25,7 +25,7 @@ Below are the cultural gems to be found throughout Dundee, as chosen by Helen Ma
 
 [DCA Galleries](https://www.artrabbit.com/organisations/dundee-contemporary-arts)
 
-What can we say, we’d love it if you started your Art Trail at DCA! From Sat 14 September – Sun 24 November you can see How Flexible Can We Make the Mouth, the first major UK solo exhibition of Barbadian-Scottish artist Alberta Whittle which draws together new and recent artworks in film, sculpture, print, installation and performance. 
+What can we say, we’d love it if you started your Art Trail at DCA! From Sat 14 December 2019 – Sun 22 March 2020 you can see [Seized by the Left Hand](https://www.dca.org.uk/whats-on/event/seized-by-the-left-hand), an international group exhibition which takes as its starting point some of the ideas contained within American writer Ursula K. Le Guin's 1969 novel The Left Hand of Darkness. Then from Sat 11 April - Sun 19 July 2020 our galleries will feature the work of Douglas Gordon, focusing on his major film installation k.364.
 
 [V&A Dundee](https://www.artrabbit.com/organisations/va-dundee)
 
@@ -56,14 +56,6 @@ Just down the road from DCA, Dundee Rep and Scottish Dance Theatre are housed in
 [Open/Close Dundee](http://openclosedundee.co.uk/)
 
 Brightening up the doorways and forgotten corners of Dundee, Open/Close Dundee have created two art trails around the city centre and Stobswell area of the city. Take a look at their website to see the routes (and other hot street art spots around the city), pick up their maps from DCA Shop for £1 or sign up for one of their guided tours.
-
-[Art for All - The Pioneering Story of Public Art in Dundee ](https://www.dundee.ac.uk/museum/exhibitions/publicart/)
-
-[Lamb Gallery](https://www.dundee.ac.uk/museum/exhibitions/lamb/)
-
-3 August – 26 October 2019
-
-This free exhibition looks at Dundee’s history of public art (there are over 500 sculptures, murals, mosaics and other forms of public art in the city!), focusing on the pioneering Blackness Public Art Programme of early 1980.
 
 [Nomas* Projects](https://www.artrabbit.com/organisations/nomas-projects)
 
