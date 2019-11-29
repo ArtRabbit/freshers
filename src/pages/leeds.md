@@ -15,11 +15,11 @@ pageNavigation:
 ---
 ## by The Tetley
 
-At once a student and a finance city, Leeds has long been a leader in the arts within the UK, with the likes of Henry Moore and Barbara Hepworth hailing from there. From more traditional strains of art to the unapologetically radical, Leeds has seen its fair share of influential cultural producers and movements. Continuing on this thread, the city has initiated a 5-year cultural investment programme that is to end in 2023 with a year of cultural celebration, along with an international cultural festival. Its dedication to culture can be seen in the quality of its organisations, including the Tetley, housed in the former Tetley Brewery. 
+At once a student and a finance city, Leeds has long been a leader in the arts within the UK, with the likes of Henry Moore and Barbara Hepworth hailing from there. From more traditional strains of art to the unapologetically radical, Leeds has seen its fair share of influential cultural producers and movements. Continuing on this thread, the city has initiated a 5-year cultural investment programme that is to end in 2023 with a year of cultural celebration, along with an international cultural festival. Its dedication to culture can be seen in the quality of its organisations, including The Tetley, housed in the former Tetley Brewery. 
 
-The Tetley houses incredible exhibitions, informative workshops and great food and drink to boot. We invest in new and emerging artists with a programme of both local and international talent. At only 5 years, the Tetley has already supported the work of over 550 artists and have welcomed over 600,000 visitors. There’s also been over 30 new major artworks that owes part of its creation to the Tetley, all of which have toured major arts festivals. In the next 5 years, we plan to continue on this trajectory of championing the arts.
+The Tetley houses incredible exhibitions, informative workshops and great food and drink to boot. We invest in new and emerging artists with a programme of both local and international talent. At only 5 years, The Tetley has already supported the work of over 550 artists and have welcomed over 600,000 visitors. There’s also been over 30 new major artworks that owes part of its creation to The Tetley, all of which have toured major arts festivals. In the next 5 years, we plan to continue on this trajectory of championing the arts.
 
-Below are some places to mark on your map and events to add to your calendar from all around Leeds, as chosen by Millie Carroll, Marketing and Press Coordinator at the Tetley.
+Below are some places to mark on your map and events to add to your calendar from all around Leeds, as chosen by Millie Carroll, Marketing and Press Coordinator at The Tetley.
 
 ## Art Trail
 
@@ -49,7 +49,7 @@ A visual arts organisation that produces and presents ambitious new work by cont
 
 [The Tetley](https://www.artrabbit.com/organisations/the-tetley)
 
-We had to include ourselves! We are a contemporary art space giving emerging artists a larger platform to showcase their work. Usually, we give artists their first solo show or bring international artists to the UK for the first time. We host around four exhibitions annually across all media and have a lively programme of events from screenings to talks throughout the year.
+We had to include ourselves! We are a contemporary art space giving emerging artists a larger platform to showcase their work. Usually, we give artists their first solo show or bring international artists to the UK for the first time. We host around four exhibitions annually across all media and have a lively programme of events from screenings to workshops, festivals to talks, all throughout the year.
 
 ## Freebies
 
@@ -77,9 +77,7 @@ Just over the road from us, you'll find Sheaf Street, a cosy cafe that does grea
 
 [The Tetley](https://www.artrabbit.com/organisations/the-tetley)
 
-Us again! In our Bar’s Kitchen, we have an excellent wifi connection and multiple plug points around the bar. Have a cup of North Star coffee, roasted just up the road, or even a pint of Tetley’s if work is stressing you out too much.
-
-## 
+Us again! In our Bar & Kitchen, we have an excellent wifi connection and multiple plug points around the bar. Have a cup of North Star coffee, roasted just up the road, or even a pint of Tetley’s if work is stressing you out too much.
 
 ## Alternative and art cinemas
 
