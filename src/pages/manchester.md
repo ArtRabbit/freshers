@@ -80,7 +80,7 @@ The Stockport Plaza Super Cinema and Variety Theatre is an award-winning example
 
 ## Adornments for your calendar
 
-Chinese New Year
+[Chinese New Year](https://www.visitmanchester.com/ideas-and-inspiration/chinese-new-year), 24-26 Jan
 
 Chinese New Year is a time of great festivity in Manchester’s city centre and beyond. From dragon dancing and lantern parades to a three-day street food festival and free workshops. There is something for everyone.
 
