@@ -144,7 +144,7 @@ August
 
 **October** 
 
-Frieze Week, with [Frieze/Frieze Master](https://www.artrabbit.com/events/frieze-london-frieze-masters-2020), 8 - 11 Oct 2020, Regents Park
+Frieze Week, with [Frieze](https://www.artrabbit.com/events/frieze-london-2020)/[Frieze Master](https://www.artrabbit.com/events/frieze-masters-2020), 8 - 11 Oct 2020, Regent's Park
 
 [Art Licks Weekend](https://artlicksweekend.com/), TBA, Various Locations
 
