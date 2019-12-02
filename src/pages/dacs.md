@@ -8,7 +8,7 @@ eleventyNavigation:
   order: '4'
   parent: Part 2 – Organisations & Services
 pageNavigation:
-  back: /creative-united/index.html
+  back: /own-art/index.html
   next: /heritage-lottery-fund/index.html
   nextLabel: Heritage Lottery Fund
 ---
