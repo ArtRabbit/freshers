@@ -9,8 +9,8 @@ eleventyNavigation:
   parent: Part 2 – Organisations & Services
 pageNavigation:
   back: /artscouncil/index.html
-  next: /creative-united/index.html
-  nextLabel: Creative United
+  next: /own-art/index.html
+  nextLabel: Own Art
 ---
 **Confused about your rights as an artist? ACS can help.** 
 
