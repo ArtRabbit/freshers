@@ -12,22 +12,23 @@ pageNavigation:
   next: /heritage-lottery-fund/index.html
   nextLabel: Heritage Lottery Fund
 ---
-As you embark on your career as an artist, DACS (short for Design and Artists Copyright Society) provides practical advice and support on everything from signing a contract to what to do if someone has used your work without your permission. 
+**Supporting you on your journey through art school**
 
-DACS can help you understand how to protect your practice, giving you control over how your work is used and help you make money in the process. The organisation has a range of free resources on their website including:
+As you embark on your career as an artist, DACS provides practical advice and support on everything from signing a contract to what to do if someone has used your work without your permission. 
 
-* How to protect your work and what to do if your work is used without your permission.
-* What you need to know before sharing your images on social media. 
-* What to look out for when signing an artist contract.
+DACS can help you understand how to protect your practice, giving you control over how your work is used and helping you make money in the process. The organisation has a range of free resources on their website including:
+
+* [How to protect your work and what to do if your work is used without your permission](https://www.dacs.org.uk/latest-news/copyright-uncovered-infringements?category=For+Artists&amp;title=N)<https://www.dacs.org.uk/><https://www.dacs.org.uk/>.
+* [What to look out for when signing an artist contract](https://www.dacs.org.uk/latest-news/copyright-uncovered-a-deeper-look-at-artists%E2%80%99-cont?category=For+Artists&amp;title=N).
 
 DACS was set up by artists for artists and they represent over 100,000 members internationally including Bridget Riley, Jeremy Deller, Tracey Emin, Anthea Hamilton, Ryan Gander and Laure Prouvost. 
 
-DACS offer a number of services that support artists at different stages of their career. As you establish your creative practice, they can help you earn money that will pay for studio space and materials, supporting you to make new work.
+DACS offers a number of services that support artists at different stages of their career. As you establish your creative practice, they can help you earn money that will pay for studio space and materials, supporting you to make new work.
 
-For over 30 years, DACS have campaigned for artists rights because they believe in paying artists fairly. Find out more about their [FairShareForArtists](https://fairshareforartists.org/) campaign and hear what other artists have to say.
+For over 30 years, DACS has campaigned for artists rights because they believe in paying artists fairly. Find out more about their [FairShareForArtists](https://fairshareforartists.org/) campaign and hear what other artists have to say.
 
 DACS have a unique understanding of the issues which affect artists lives and practices, and continue to drive debate through their curated public programme of events.
 
-Join their mailing list or follow them on social - [Twitter](http://twitter.com/@DACSforArtists), [Facebook](https://www.facebook.com/DACSforArtists) or [Instagram](http://instagram.com/@DACSforArtists) - to receive news about upcoming events including artists talks, debates, and workshops.
+Follow them on [Twitter](http://twitter.com/@DACSforArtists), [Facebook](https://www.facebook.com/DACSforArtists) or [Instagram](http://instagram.com/@DACSforArtists) to receive news about upcoming events including artists talks, debates, and workshops.
 
 @[youtube](w72p9h4zJkw "Fair Share For Artists: In the artists' words")
