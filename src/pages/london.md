@@ -29,16 +29,11 @@ The order of venues are only suggestions, so feel free to curate your own itiner
 
 {% arimage "/static/img/uploads/hackney-art-trail-artrabbit.jpg", "Hackney Art Trail by Art Rabbit. From Haggerston to Shoreditch", "View the Hackney Art Trail by ArtRabbit on Google Maps", "https://www.google.com/maps/d/u/0/edit?hl=en&hl=en&mid=1kWm6-LbcYtDQBKZcTCr7wG5B1MGxH8hV&ll=51.540185430405444%2C-0.10482568717839058&z=15" %}
 
-A Seventeen 
-
-B Peers
-
-C Autograph
-
-D Royal Drawing School 
-
-E Parasol Unit
-
+A [Seventeen ](https://www.artrabbit.com/organisations/seventeen)\
+B [Peer](https://www.artrabbit.com/organisations/peer)\
+C [Autograph](https://www.artrabbit.com/organisations/autograph)\
+D Royal Drawing School \
+E Parasol Unit\
 F Victoria Miro 
 
 ## Freebies
