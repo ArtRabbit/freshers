@@ -18,7 +18,7 @@ As you embark on your career as an artist, DACS provides practical advice and su
 
 DACS can help you understand how to protect your practice, giving you control over how your work is used and helping you make money in the process. The organisation has a range of free resources on their website including:
 
-* [How to protect your work and what to do if your work is used without your permission](https://www.dacs.org.uk/latest-news/copyright-uncovered-infringements?category=For+Artists&amp;title=N)<https://www.dacs.org.uk/><https://www.dacs.org.uk/>.
+* [How to protect your work and what to do if your work is used without your permission](https://www.dacs.org.uk/https://www.dacs.org.uk/).
 * [What to look out for when signing an artist contract](https://www.dacs.org.uk/latest-news/copyright-uncovered-a-deeper-look-at-artists%E2%80%99-cont?category=For+Artists&amp;title=N).
 
 DACS was set up by artists for artists and they represent over 100,000 members internationally including Bridget Riley, Jeremy Deller, Tracey Emin, Anthea Hamilton, Ryan Gander and Laure Prouvost. 
