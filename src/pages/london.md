@@ -19,13 +19,27 @@ Does London even need an introduction? It probably does, and any assumption that
 
 This might account for why ArtRabbit is based here. It's where we experience the most art, and it's where each of us at ArtRabbit fell in love with art, some for the first time and some for the millionth. And after all these years, London still never ceases to amaze us with its cultural offerings. We hope we can help you fall in love with art as well, and in so doing, love this city just a little more. 
 
+## Art Trails
+
 With London being an endlessly walkable city and so chock-full of inspiring art venues, we’ve created some art trails throughout London to get you acquainted with each neighbourhood. They’ve been meticulously field-tested, with each trail taking no more than an hour max (excluding time spent inside venues), so they’re guaranteed to be a perfect way to explore different parts of town.
 
 The order of venues are only suggestions, so feel free to curate your own itinerary. While we wanted to highlight our favourite non-profit spaces and museums in this edition, there are lots more spaces and galleries nested in the different areas. For the most comprehensive gallery hopping experience, make sure to [download the ArtRabbit app](https://www.artrabbit.com/app).
 
-## Art Trails
+**Hackney Art Trail Part 1 - Haggerston, Hoxton, Shoreditch** 
 
-<<In edit>>
+{% arimage "/static/img/uploads/hackney-art-trail-part-1.png", "Hackney Art Trail by Art Rabbit. From Haggerston to Shoreditch", "View the Hackney Art Trail by Art Rabbit on Google Maps", "https://www.google.com/maps/d/u/0/edit?hl=en&hl=en&mid=1kWm6-LbcYtDQBKZcTCr7wG5B1MGxH8hV&ll=51.540185430405444%2C-0.10482568717839058&z=15" %}
+
+A Seventeen 
+
+B Peers
+
+C Autograph
+
+D Royal Drawing School 
+
+E Parasol Unit
+
+F Victoria Miro 
 
 ## Freebies
 
