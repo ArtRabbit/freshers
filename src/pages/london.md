@@ -27,7 +27,7 @@ The order of venues are only suggestions, so feel free to curate your own itiner
 
 **Hackney Art Trail Part 1 - Haggerston, Hoxton, Shoreditch** 
 
-{% arimage "/static/img/uploads/hackney-art-trail-part-1.png", "Hackney Art Trail by Art Rabbit. From Haggerston to Shoreditch", "View the Hackney Art Trail by Art Rabbit on Google Maps", "https://www.google.com/maps/d/u/0/edit?hl=en&hl=en&mid=1kWm6-LbcYtDQBKZcTCr7wG5B1MGxH8hV&ll=51.540185430405444%2C-0.10482568717839058&z=15" %}
+{% arimage "/static/img/uploads/hackney-art-trail-artrabbit.jpg", "Hackney Art Trail by Art Rabbit. From Haggerston to Shoreditch", "View the Hackney Art Trail by ArtRabbit on Google Maps", "https://www.google.com/maps/d/u/0/edit?hl=en&hl=en&mid=1kWm6-LbcYtDQBKZcTCr7wG5B1MGxH8hV&ll=51.540185430405444%2C-0.10482568717839058&z=15" %}
 
 A Seventeen 
 
