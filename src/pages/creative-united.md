@@ -12,6 +12,6 @@ pageNavigation:
   next: /dacs/index.html
   nextLabel: DACS
 ---
-[Own Art](https://www.ownart.org.uk/) is an Arts Council funded initiative designed to make it easy and affordable for everyone to mown high quality contemporary art and craft by providing interest free loans. Choose the artwork you love, apply for a loan from as little as £100 up to £25,000 and pay it back over 10 or 20 months, completely interest-free.
+[Own Art](https://www.ownart.org.uk/) is an Arts Council funded initiative, run by Creative United, designed to make it easy and affordable for everyone to own high-quality contemporary art and craft by providing interest-free loans. Choose the artwork you love, apply for a loan from as little as £100 up to £25,000, and pay it back over 10 or 20 months, completely interest-free.
 
 {% arimage "/static/img/uploads/own-art-banner-ad-2-.png", "Own Art Collect Yourself ", "Find out more about the scheme and eligibility criteria", "https://www.ownart.org.uk/" %}
