@@ -12,7 +12,7 @@ pageNavigation:
   back: /navigating-the-city/index.html
   next: /aberdeen/index.html
   nextLabel: Aberdeen
-  nexta: /peacock-visual-arts/index.html
+  nexta: ''
 ---
 No matter how long you've lived somewhere, you won't truly know a city until you've spent hours navigating through its various winding streets and hidden paths. Public transportation, cars and bikes are all means to an end, but when the journey is unequivocally the best part, travelling en plein air gives you the opportunity to discover your borough in new, exciting ways. 
 
