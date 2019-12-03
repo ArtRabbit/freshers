@@ -16,7 +16,7 @@ We hope you enjoyed this year’s edition!
 
 This chapter introduces the technical aspects of how it was made, and gives insight into how you can contribute to our project. 
 
-We built the Web Book with Eleventy, a static site generator (SSG), with a Netlify CMS baked-in, and deployed and hosted it on Netlify https://www.netlify.com/ (a platform that offers serverless backends and hosting for static websites). Put simply, an SSG allows us to generate a static HTML-only website that uses a template similar to a CMS so that content can be added with ease of usability. The content files were created in Markdown, a lightweight markup language with plain text formatting syntax.
+We built the Web Book with [Eleventy](https://www.11ty.io/), a static site generator (SSG), with a Netlify CMS baked-in, and deployed and hosted it on [Netlify](https://www.netlify.com/) (a platform that offers serverless backends and hosting for static websites). Put simply, an SSG allows us to generate a static HTML-only website that uses a template similar to a CMS so that content can be added with ease of usability. The content files were created in Markdown, a lightweight markup language with plain text formatting syntax.
 
 Whilst last year's edition was hand-coded, this year's approach gives us the opportunity to automate the publishing and editing process, making it easier to expand on this resource and collaborate with more individuals and cultural organisations. This approach also ensures that the web book loads faster and is available on older browsers, thus providing broader access to the resource. 
 
@@ -30,14 +30,6 @@ Want to make your own web book using the source code? You're welcome to clone th
 
 The content of this Web Book is licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/). 
 
-If you're not super tech-savvy but would still like to make a contribution, email us at <mailto:support@artrabbit.com> to let us know about any additions you'd like to make. 
-
-**About ArtRabbit** 
-
-
-
-ArtRabbit is an independent digital arts platform for serendipitous art discovery. We provide a crowd-sourced database of contemporary art events, publish weekly newsletters, an app, and other digital resources to help you navigate the uneven terrain of contemporary art and visual culture.
-
-
+If you're not super tech-savvy but would still like to make a contribution, email us at <mailto:support@artrabbit.com> to let us know about any additions you'd like to make.
 
 Read ArtRabbit’s [Privacy Notice](https://www.artrabbit.com/about-artrabbit/privacy).
