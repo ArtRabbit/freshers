@@ -11,7 +11,7 @@ pageNavigation:
   back: /brighton/index.html
   next: /cardiff/index.html
   nextLabel: Cardiff
-  nexta: ''
+  nexta: /artes-mundi/index.html
 ---
 ## by Spike Island
 
