@@ -1,6 +1,6 @@
 # Art Freshers’ Guide to the Art World
 
-An ebook for UK Art Freshers
+A practical guide and web book for anyone starting out in art and culture, with a special focus on various cities in the UK.
 
 ## [Live site](https://freshers.artrabbit.com)
 
