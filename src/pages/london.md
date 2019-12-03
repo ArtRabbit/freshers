@@ -62,22 +62,26 @@ If you prefer some (sort of) fresh city air over (wine-infused) artsy venues, Sc
 
 Library air getting stale? 2000 words still outstanding on that paper due next week? We know that a change in environment can help get those creative juices flowing, so we’ve found a few sweet spots scattered around the city to help reinvigorate your will to study. Most of them offer WiFi and good coffee AKA just about everything you need to get your uni work done.
 
-[British Library](https://www.bl.uk/visit/opening-hours) \
-Free WiFi available in the Library's London and Boston Spa Reading Rooms, and in all their public areas.
-
-[The Barbican Library](https://www.barbican.org.uk/your-visit/during-your-visit/library) \
-Free WiFi and computers with internet access.
-
 [Barbican Centre](https://www.barbican.org.uk/) \
 Free WiFi in the foyers.
 
-[The National Art Library - V&A](https://www.vam.ac.uk/info/national-art-library/)
+[British Library](https://www.bl.uk/visit/opening-hours) \
+Free WiFi available in the Library's London and Boston Spa Reading Rooms, and in all their public areas.
 
 [Cafe OTO](https://www.cafeoto.co.uk/) \
 Coffee Shop, Venue, Free WiFi.
 
+[The Barbican Library](https://www.barbican.org.uk/your-visit/during-your-visit/library) \
+Free WiFi and computers with internet access.
+
+[The National Art Library - V&A](https://www.vam.ac.uk/info/national-art-library/)
+
 [LADA’s Study Room](http://thisisliveart.co.uk/resources/study-room/) \
 The LADA Study Room is the core resource of the Live Art Development Agency and is a free, open access research facility used by artists, students, curators, academics, writers, researchers, historians and the curious to look at the work of specific artists or wider cultural histories and themes. Housing over 8000 titles, the Study Room is the largest publicly accessible library of Live Art related documentation and publications in the world.
+
+[Royal College of Physicians](https://history.rcplondon.ac.uk/)
+
+Founded in 1518 by King Henry VIII, the Royal College of Physicians of London is the oldest medical college in England and continues to play a pivotal role in shaping public health today. The RCP Museum looks after 500 years of history with library, archive, museum collections and temporary exhibitions open to the public for free.
 
 ## Alternative and art cinemas
 
@@ -101,7 +105,7 @@ Sure, Marvel films have their mass appeal, but sometimes we’re in the mood for
 
 In 2020, these important events are must-attends for every art student and (emerging) art professional. Keep this list with you throughout the year, or [join ArtRabbit and save them to get reminders before they start](https://www.artrabbit.com/) so that your event calendar will never miss a beat.
 
-{% arimage "/static/img/uploads/rcop-webbanner.jpg", "Royal College of Physicians", "Explore the unsettling beauty of the human body from the medieval age to the contemporary world. ", "https://artrabb.it/37UG4Xs" %}
+{% arimage "/static/img/uploads/rcop-webbanner.jpg", "Royal College of Physicians", "Explore the unsettling beauty of the human body from the medieval age to the contemporary world.", "https://artrabb.it/2JYb5zy" %}
 
 **January**
 
