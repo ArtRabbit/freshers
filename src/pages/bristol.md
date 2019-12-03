@@ -57,7 +57,7 @@ Open every day of the year.
 
 The University of Bristol has some incredible spaces to explore including Royal Fort gardens which is home to two public art pieces definitely worth seeing: Hollow by Katie Paterson (open during daylight hours. Opening times may vary during the summer months and holidays are at the discretion of the University of Bristol) and Follow me by Jeppe Hein. 
 
-[Arnos Vale Cemetery](www.arnosvale.org.uk)
+[Arnos Vale Cemetery](https://arnosvale.org.uk/)
 
 Yes, we are recommending a cemetery! Arnos Vale is a 45-acre leafy and tranquil escape from the city – it’s one of Britain’s best examples of a Victorian garden cemetery, free to visit, has a delicious café, and also an eclectic events programme including yoga and ‘murder mayhem and mystery’ tours. 
 
