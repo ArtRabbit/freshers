@@ -12,6 +12,10 @@ pageNavigation:
   next: /partners-and-supporters/index.html
   nextLabel: Partners & Supporters
 ---
+## About ArtRabbit 
+
+ArtRabbit is an independent digital arts platform for serendipitous art discovery. We provide a crowd-sourced database of contemporary art events, publish weekly newsletters, an app, and other digital resources to help you navigate the uneven terrain of contemporary art and visual culture.
+
 ## Editor-in-Chief
 
 Vivi Kallinikou
@@ -31,3 +35,5 @@ Tom Elsner\
 ## Contributors
 
 Kitty Bew (Phoenix Art Space), Will Carey (Jupiter Artland), Millie Carroll (The Tetley), Julie Cathcart (Glasgow CCA), Neil Corall and Joe Coleman (Peacock Visual Arts), Sophie Erin Evans (The Edge), Jane Faram (Spike Island), Helen Macdonald (DCA), Nicole Mawby (The Edge), Sam Newman, (IKON), Stephen Phillips (Artes Mundi), Gabrielle de la Puente (OUTPUT Gallery)
+
+##
