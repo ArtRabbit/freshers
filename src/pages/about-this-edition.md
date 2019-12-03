@@ -20,7 +20,7 @@ We built the Web Book with [Eleventy](https://www.11ty.io/), a static site gener
 
 Whilst last year's edition was hand-coded, this year's approach gives us the opportunity to automate the publishing and editing process, making it easier to expand on this resource and collaborate with more individuals and cultural organisations. This approach also ensures that the web book loads faster and is available on older browsers, thus providing broader access to the resource. 
 
-Static sites are extremely fast because all the web server needs to do is return a file. In comparison, every request on a traditional CMS-driven website is a database request, and requires every page to be built from scratch. This includes putting together all the template files and getting the content from the database. That stuff adds up! 
+Static sites are fast because all the web server needs to do is return a file. In comparison, every request on a traditional CMS-driven website is a database request, and requires every page to be built from scratch. This includes putting together all the template files and getting the content from the database. That stuff adds up! 
 
 The most important objective for us was to be able to collaborate with individuals and cultural organisations to expand on this resource. That's why we used an SSG and placed everything, code and content, in an open-source repository on GitHub. You can [access it here](https://github.com/ArtRabbit/freshers/), and anyone (including you!) can make or suggest updates to be merged into the live web book. Simply create a pull request, add your changes and upload to master. 
 
