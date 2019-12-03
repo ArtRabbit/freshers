@@ -118,7 +118,7 @@ To market your art more effectively, you need to figure out where you and your w
 
 Once you’ve identified your target audience or market, promote yourself and your work through social media. Here, it’s also beneficial to be organised, so that you know exactly what you’re telling your audience, from which platform and when. As every platform is constantly evolving, it’s best to read up on the latest updates to their algorithms and try out different strategies in order to find your ideal rhythm. 
 
-You can post anything from work in progress or inspiration, the works you have on show, works you've sold or ones you've just finished. Followers may also like to see behind the scenes images of how you perform your practice, tools you use, studio space and more. 
+You can post anything from works in progress to your inspirations, the works you have on show, works you've sold or ones you've just finished. Followers may also like to see behind the scenes images and videos of how you perform your practice, tools you use, studio space and more. 
 
 ## 13 Find a gallery
 
