@@ -18,7 +18,7 @@ This chapter introduces the technical aspects of how we made this Web Book, and 
 
 We built the Web Book with [Eleventy](https://www.11ty.io/), a static site generator (SSG), with a Netlify CMS baked-in, and deployed and hosted it on [Netlify](https://www.netlify.com/) (a platform that offers serverless backends and hosting for static websites). Put simply, an SSG allows us to generate a static HTML-only website that uses a template similar to a CMS so that content can be added with ease of usability. The content files were created in Markdown, a lightweight markup language with plain text formatting syntax.
 
-Whilst last year's edition was hand-coded, this year's approach gives us the opportunity to streamline the publishing and editing process, making it easier to expand on this resource and collaborate with more individuals and cultural organisations. This approach also ensures that the web book loads faster and is available on older browsers, thus providing broader access to the resource. 
+Whilst last year's edition was hand coded, this year's approach gives us the opportunity to streamline the publishing and editing process, making it easier to expand on this resource and collaborate with more individuals and cultural organisations. This approach also ensures that the web book loads faster and is available on older browsers, thus providing broader access to the resource. 
 
 Static sites are fast because all the web server needs to do is return a file. In comparison, every request on a traditional CMS-driven website is a database request, and requires every page to be built from scratch. This includes putting together all the template files and getting the content from the database. That stuff adds up! 
 
