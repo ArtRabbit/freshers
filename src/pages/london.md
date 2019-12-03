@@ -79,8 +79,7 @@ Free WiFi and computers with internet access.
 [LADA’s Study Room](http://thisisliveart.co.uk/resources/study-room/) \
 The LADA Study Room is the core resource of the Live Art Development Agency and is a free, open access research facility used by artists, students, curators, academics, writers, researchers, historians and the curious to look at the work of specific artists or wider cultural histories and themes. Housing over 8000 titles, the Study Room is the largest publicly accessible library of Live Art related documentation and publications in the world.
 
-[Royal College of Physicians](https://history.rcplondon.ac.uk/)
-
+[Royal College of Physicians](https://history.rcplondon.ac.uk/)\
 Founded in 1518 by King Henry VIII, the Royal College of Physicians of London is the oldest medical college in England and continues to play a pivotal role in shaping public health today. The RCP Museum looks after 500 years of history with library, archive, museum collections and temporary exhibitions open to the public for free.
 
 ## Alternative and art cinemas
