@@ -12,6 +12,7 @@ pageNavigation:
   back: /navigating-the-city/index.html
   next: /aberdeen/index.html
   nextLabel: Aberdeen
+  nexta: /peacock-visual-arts/index.html
 ---
 No matter how long you've lived somewhere, you won't truly know a city until you've spent hours navigating through its various winding streets and hidden paths. Public transportation, cars and bikes are all means to an end, but when the journey is unequivocally the best part, travelling en plein air gives you the opportunity to discover your borough in new, exciting ways. 
 
@@ -21,7 +22,7 @@ While we’ve gathered feats and highlights of various cities from all corners o
 
 The cities we covered and partners we worked with this year underscores the must-visit destinations of the UK, with expertly curated art trails that makes discovering a city easy and fulfilling. Read on to explore the best ways the navigate each city.
 
-## Choose a city:
+## Choose a city
 
 1. [Aberdeen](/aberdeen)
 2. [Bath](/bath/index.html)
