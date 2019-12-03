@@ -48,6 +48,8 @@ It’s more or less true that if you don’t exist on the internet, you don’t 
 
 If you're primarily interested in selling your work, try out-of-the box e-commerce sites like Shopify, WooCommerce, BigCommerce, or Big Cartel. 
 
+In terms of choosing an appropriate URL, the best bet is to use your full name. If that's already taken, try adding "art" or "artist" at the end of it. You can do the same when choosing social media handles so that you have a consistent branding throughout your platforms.
+
 ## 3 Create your own business cards
 
 A little old school, but people still use them, and when you’re at an art opening and that 5th glass of wine has made it difficult to type your number into a stranger and potential patron’s phone, handing over a business card is just so much easier. There are plenty of services out there, e.g. MOO or Printed.com. But as a creative, you can make your own from scratch. Do it with a stamp or painted on small pieces of paper board, and because you’re an artist, its DIY aesthetic will simply be a part of your charm. 
