@@ -14,8 +14,6 @@ pageNavigation:
 ---
 **DACS is with you at every stage of your career, providing practical advice and support for artists on everything from signing a contract to what to do if someone has used your work without your permission.**
 
-As you embark on your career as an artist, DACS provides practical advice and support on everything from signing a contract to what to do if someone has used your work without your permission. 
-
 DACS can help you understand how to protect your practice, giving you control over how your work is used and helping you make money in the process. The organisation has a range of free resources on their website including:
 
 * [How to protect your work and what to do if your work is used without your permission](https://www.dacs.org.uk/latest-news/copyright-uncovered-infringements?category=For+Artists&title=N).
