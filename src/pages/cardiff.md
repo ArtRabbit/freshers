@@ -91,7 +91,8 @@ Catch a train to Penarth for a slice of seaside Victoriana and the Penarth Pier 
 
 ## Adornments for your Calendar
 
-[EXPERIMENTICA](https://www.facebook.com/experimenticafestival/)\
+[EXPERIMENTICA](https://www.facebook.com/experimenticafestival/)
+
 Chapter’s 5-day Live Art and Performance festival returns in November 2020 and launches in April with special announcements and performances. Festival of Voice Wales Millennium Centre’s celebration of the voice in all its forms, returns in Spring 2020
 
 [Festival of Voice](https://www.artrabbit.com/organisations/festival-of-voice)
