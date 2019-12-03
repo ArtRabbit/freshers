@@ -118,6 +118,8 @@ To market your art more effectively, you need to figure out where you and your w
 
 Once you’ve identified your target audience or market, promote yourself and your work through social media. Here, it’s also beneficial to be organised, so that you know exactly what you’re telling your audience, from which platform and when. As every platform is constantly evolving, it’s best to read up on the latest updates to their algorithms and try out different strategies in order to find your ideal rhythm. 
 
+You can post anything from work in progress or inspiration, the works you have on show, works you've sold or ones you've just finished. Followers may also like to see behind the scenes images of how you perform your practice, tools you use, studio space and more. 
+
 ## 13 Find a gallery
 
 Finding gallery representation is really hard and oftentimes based on luck. Gallerists like scouting their own talent. They attend exhibitions, events, degree shows, look to Instagram or surf the web, so make sure you’ve covered all of the above points. What you definitely shouldn’t do is walk into a gallery and demand representation or send unsolicited work. It's not gonna work and you’ll come across like a telemarketer disrupting a romantic dinner with a call about a product that no one wants. If galleries accept work, they will say so on their website, and you’ll know then that it’s appropriate to send some over.
