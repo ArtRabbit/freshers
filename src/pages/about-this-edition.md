@@ -14,7 +14,7 @@ pageNavigation:
 ---
 We hope you enjoyed this year’s edition!
 
-This chapter introduces the technical aspects of how it was made, and gives insight into how you can contribute to our project. 
+This chapter introduces the technical aspects of how we made this Web Book, and gives insight into how you can contribute to the _Art Freshers_ project. 
 
 We built the Web Book with [Eleventy](https://www.11ty.io/), a static site generator (SSG), with a Netlify CMS baked-in, and deployed and hosted it on [Netlify](https://www.netlify.com/) (a platform that offers serverless backends and hosting for static websites). Put simply, an SSG allows us to generate a static HTML-only website that uses a template similar to a CMS so that content can be added with ease of usability. The content files were created in Markdown, a lightweight markup language with plain text formatting syntax.
 
