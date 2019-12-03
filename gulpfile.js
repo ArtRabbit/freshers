@@ -45,11 +45,12 @@ gulp.task('images', function() {
       }],
     }, {
       quality: 80,
-      progressive: true,
+      progressive: false,
       withMetadata: false,
       withoutEnlargement: true,
       errorOnUnusedImage: false,
-      errorOnEnlargement: false
+      errorOnEnlargement: false,
+      withoutChromaSubsampling: true
     }))
     .pipe(gulp.dest('./src/static/img/processed'));
 });

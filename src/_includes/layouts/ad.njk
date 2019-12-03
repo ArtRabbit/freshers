@@ -6,7 +6,7 @@ section: ad
 <a href="{{ link }}" target="_blank" class="ad fullheight fixed" rel="noopener noreferrer">
 	<img 
 		srcset="{{ image | imgSuffix('1440') }} 1440w, {{ image | imgSuffix('2880') }} 2880w"
-		sizes= "100vw"
+		sizes="(min-aspect-ratio: 240/113) calc( ( (240/113) * 100vh ) ), calc( 100vw )"
 		src="{{ image | imgSuffix('1440') }}" alt="Ad" >
 </a> 
 {% endif %}
