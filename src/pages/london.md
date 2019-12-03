@@ -105,7 +105,7 @@ Sure, Marvel films have their mass appeal, but sometimes we’re in the mood for
 
 In 2020, these important events are must-attends for every art student and (emerging) art professional. Keep this list with you throughout the year, or [join ArtRabbit and save them to get reminders before they start](https://www.artrabbit.com/) so that your event calendar will never miss a beat.
 
-{% arimage "/static/img/uploads/rcop-webbanner.jpg", "Royal College of Physicians", "Founded in 1518 by King Henry VIII, the Royal College of Physicians of London is the oldest medical college in England and continues to play a pivotal role in shaping public health today. The RCP Museum looks after 500 years of history with library, archive, museum collections and temporary exhibitions open to the public for free.", "https://artrabb.it/2JYb5zy" %}
+{% arimage "/static/img/uploads/rcop-webbanner.jpg", "Royal College of Physicians", "Explore the unsettling beauty of the human body from the medieval age to the contemporary world.", "https://artrabb.it/2JYb5zy" %}
 
 **January**
 
