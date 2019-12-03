@@ -48,6 +48,8 @@ It’s more or less true that if you don’t exist on the internet, you don’t 
 
 If you're primarily interested in selling your work, try out-of-the box e-commerce sites like Shopify, WooCommerce, BigCommerce, or Big Cartel. 
 
+In terms of choosing an appropriate URL, the best bet is to use your full name. If that's already taken, try adding "art" or "artist" at the end of it. You can do the same when choosing social media handles so that you have a consistent branding throughout your platforms.
+
 ## 3 Create your own business cards
 
 A little old school, but people still use them, and when you’re at an art opening and that 5th glass of wine has made it difficult to type your number into a stranger and potential patron’s phone, handing over a business card is just so much easier. There are plenty of services out there, e.g. MOO or Printed.com. But as a creative, you can make your own from scratch. Do it with a stamp or painted on small pieces of paper board, and because you’re an artist, its DIY aesthetic will simply be a part of your charm. 
@@ -115,6 +117,8 @@ To market your art more effectively, you need to figure out where you and your w
 ## 12 Use Social Media
 
 Once you’ve identified your target audience or market, promote yourself and your work through social media. Here, it’s also beneficial to be organised, so that you know exactly what you’re telling your audience, from which platform and when. As every platform is constantly evolving, it’s best to read up on the latest updates to their algorithms and try out different strategies in order to find your ideal rhythm. 
+
+You can post anything from works in progress to your inspirations, the works you have on show, works you've sold or ones you've just finished. Followers may also like to see behind the scenes images and videos of how you perform your practice, tools you use, studio space and more. 
 
 ## 13 Find a gallery
 

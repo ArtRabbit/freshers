@@ -12,12 +12,24 @@ pageNavigation:
   next: /credits/index.html
   nextLabel: Credits
 ---
-We hope you enjoyed this year’s edition! 
+We hope you enjoyed this year’s edition!
 
-Our 2020 Art Freshers' Web Book was created to provide a useful, accessible resource for those just starting out in the UK as an art student (or anyone new to the scene). The Book was created and written by the ArtRabbit team in collaboration with some of the best arts organisations in the UK and beyond, including Artes Mundi, Centre for Contemporary Arts Glasgow, CFCCA Manchester, Dundee Contemporary Arts, The Edge, IKON, Jupiter Artland, OUTPUT Gallery, Peacock Visual Arts, Phoenix Art Space, Spike Island, and The Tetley, without whom we couldn’t have created such a comprehensive guide.
+This chapter introduces the technical aspects of how we made this Web Book, and gives insight into how you can contribute to the _Art Freshers_ project. 
 
-ArtRabbit is an independent digital art platform for serendipitous art discovery. We provide a crowd-sourced database of contemporary art events, publish weekly newsletters, an app, and other digital resources to help you navigate the uneven terrain of contemporary art and visual culture.
+We built the Web Book with [Eleventy](https://www.11ty.io/), a static site generator (SSG), with a Netlify CMS baked-in, and deployed and hosted it on [Netlify](https://www.netlify.com/) (a platform that offers serverless backends and hosting for static websites). Put simply, an SSG allows us to generate a static HTML-only website that uses a template similar to a CMS so that content can be added with ease of usability. The content files were created in Markdown, a lightweight markup language with plain text formatting syntax.
+
+Whilst last year's edition was hand-coded, this year's approach gives us the opportunity to automate the publishing and editing process, making it easier to expand on this resource and collaborate with more individuals and cultural organisations. This approach also ensures that the web book loads faster and is available on older browsers, thus providing broader access to the resource. 
+
+Static sites are fast because all the web server needs to do is return a file. In comparison, every request on a traditional CMS-driven website is a database request, and requires every page to be built from scratch. This includes putting together all the template files and getting the content from the database. That stuff adds up! 
+
+The most important objective for us was to be able to collaborate with individuals and cultural organisations to expand on this resource. That's why we used an SSG and placed everything, code and content, in an open-source repository on GitHub. You can [access it here](https://github.com/ArtRabbit/freshers/), and anyone (including you!) can make or suggest updates to be merged into the live web book. Simply create a pull request, add your changes and upload to master. 
+
+The Git repository also means that we'll have a version history of every change added, and we'll have an offsite backup should we ever need to restore the web book.
+
+Want to make your own web book using the source code? You're welcome to clone the repository for your own projects. The code is licensed under an [MIT License](https://github.com/ArtRabbit/freshers/blob/master/LICENSE). 
 
 The content of this Web Book is licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/). 
 
-If you’d like to help maintain or expand this guide, please get in touch. Email us at <mailto:support@artrabbit.com>
+If you're not super tech-savvy but would still like to make a contribution, email us at support@artrabbit.com to let us know about any additions you'd like to make.
+
+Read ArtRabbit’s [Privacy Notice](https://www.artrabbit.com/about-artrabbit/privacy).
