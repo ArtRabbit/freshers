@@ -50,7 +50,7 @@ From one of the co-founders of Pixar Animation Studios, this book is essential f
 
 @[amazon](https://amzn.to/2XPmUgU "0593070097")
 
-[Elephant](https://elephant.art/)
+**Elephant**
 
 Elephant surveys the international cultural scene to provide quarterly publications that analyses life through art.
 
