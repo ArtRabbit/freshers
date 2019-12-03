@@ -25,8 +25,6 @@ DACS offers a number of services that support artists at different stages of the
 
 For over 30 years, DACS has campaigned for artists rights because they believe in paying artists fairly. Find out more about their [FairShareForArtists](https://fairshareforartists.org/) campaign and hear what other artists have to say.
 
-DACS have a unique understanding of the issues which affect artists lives and practices, and continue to drive debate through their curated public programme of events.
-
 Follow them on [Twitter](http://twitter.com/@DACSforArtists), [Facebook](https://www.facebook.com/DACSforArtists) or [Instagram](http://instagram.com/@DACSforArtists) to receive news about upcoming events including artists talks, debates, and workshops.
 
 @[youtube](w72p9h4zJkw "Fair Share For Artists: In the artists' words")
