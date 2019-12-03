@@ -230,21 +230,18 @@ h2 a {
 	img {
 		width: 100%;
 	    height: 100vh; 
-	    height: calc(var(--vh, 1vh) * 100);
-    	transition: 1s;  
+	    height: -webkit-fill-available;
 	    object-fit: cover;
 	}
 
 	&.fullheight{ 
 		width: 100%;
-		height: calc(100vh); 
-		height: calc(var(--vh, 1vh) * 100);
-		transition: 1s;
+		height: 100vh; 
+		height: -webkit-fill-available;
 		&.fixed{ 
 			width: 100%;
-			height: calc(100vh); 
-			height: calc(var(--vh, 1vh) * 100);
-			transition: 1s;
+			height: 100vh; 
+			height: -webkit-fill-available;
 			position: fixed;
 			left: 0;
 			/*

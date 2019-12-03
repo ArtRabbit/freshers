@@ -163,7 +163,8 @@ header {
 		
 	}
 	
- 
+ 	-webkit-overflow-scrolling: touch;
+
 }   
 
 #main-menu-checkbox:checked + nav, .main-menu[aria-expanded="true"] {
