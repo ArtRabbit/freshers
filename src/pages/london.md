@@ -32,9 +32,9 @@ The order of venues are only suggestions, so feel free to curate your own itiner
 A [Seventeen ](https://www.artrabbit.com/organisations/seventeen)\
 B [Peer](https://www.artrabbit.com/organisations/peer)\
 C [Autograph](https://www.artrabbit.com/organisations/autograph)\
-D Royal Drawing School \
-E Parasol Unit\
-F Victoria Miro 
+D [Royal Drawing School](https://www.artrabbit.com/organisations/royal-drawing-school) \
+E [Parasol Unit](https://www.artrabbit.com/organisations/parasol-unit-foundation-for-contemporary-art)\
+F [Victoria Miro](https://www.artrabbit.com/organisations/victoria-miro-gallery) 
 
 ## Freebies
 
