@@ -23,41 +23,41 @@ Cardiff boasts several culturally relevant spaces and art events listed below, a
 
 ## Art Trail
 
-[Artes Mundi](https://www.artrabbit.com/organisations/artes-mundi)
+[National Museum Cardiff](https://www.artrabbit.com/organisations/national-museum-cardiff)
 
-We’re based at National Museum Cardiff, home to Wales’ national art collections and host to a range of contemporary shows and installations by the likes of David Nash, Cerith Wyn Evans and Gillian Ayres. 
+We’re based at National Museum Cardiff, home to Wales’ national art collections and host to a range of contemporary shows and installations by the likes of David Nash, Cerith Wyn Evans and Gillian Ayres. The museum is currently showcasing a Photography Season presenting works by four of the most influential artists/photographers in the history of the medium: August Sander, Bernd and Hilla Becher and Martin Parr. 
+
+[Chapter](https://www.artrabbit.com/organisations/chapter)
+
+Chapter is a multi-artform venue based in Canton that presents, produces and promotes international art, live performance and film alongside a dynamic social space. Chapter is currently presenting a major three-part project with influential British artist Garth Evans. Alongside a retrospective exhibition and collaborative theatre piece, they have restored and returned his 1972 ‘Untitled’ sculpture to Cardiff city centre, where it was originally situated in the early 70s. 
 
 [Arcade/Campfa](https://www.artrabbit.com/organisations/arcadecampfa)
 
-Take a short walk from the civic centre to the city centre and within Queens Arcade Shopping Centre you’ll find Arcade/Campfa, a pair of artist-led spaces showcasing emerging artists from Cardiff and further afield. 
+Take a short walk from the civic centre to the city centre and within Queens Arcade Shopping Centre you’ll find Arcade/Campfa, a pair of artist-led spaces showcasing emerging artists from Cardiff and further afield. ArcadeCampfa artist in residence, Alice Banfield is currently exhibiting ‘Walking with My Eyes’. 
 
 [Capitol Spaces](https://www.artrabbit.com/organisations/capitol-spaces)
 
-Further down main shopping thoroughfare Queen Street in Capitol Shopping Centre are the Capitol Spaces; Shift, Sull and Rug. Occupying former shop units, all three are DIY art spaces dedicated to experimentation and risk, with Shift’s cavernous underground space hosting regular artist residencies and live
+Further down main shopping thoroughfare Queen Street in Capitol Shopping Centre are the Capitol Spaces; Shift, Sull and Rug. Occupying former shop units, all three are DIY art spaces dedicated to experimentation and risk, with Shift’s cavernous underground space hosting regular artist residencies and live shows.
 
-shows.
+[g39](https://www.artrabbit.com/organisations/g39)
 
-[G39](https://www.artrabbit.com/organisations/g39)
-
-A 10-minute walk down Newport Road will take you to the end of City Road, Cardiff’s multicultural hub. Head down Oxford Lane (past the Wetherspoons) to get to g39, an artist-led gallery and creative community space and fixture of Cardiff’s art scene since the late 90s,
-
-presenting a wide-ranging public programme of activities including regular talks, breakfast clubs and an artist’s library.
+A 10-minute walk down Newport Road will take you to the end of City Road, Cardiff’s multicultural hub. Head down Oxford Lane (past the Wetherspoons) to get to g39, an artist-led gallery and creative community space and fixture of Cardiff’s art scene since the late 90s, presenting a wide-ranging public programme of activities including regular talks, breakfast clubs and an artist’s library. Devised by artists for artists, the UNITe 2019 season is currently showcasing a programme of artistic experimentation, research, discussions, film, talks and presentations, until 21 December.
 
 [Ffotogallery](https://www.artrabbit.com/organisations/ffotogallery)
 
-Finally, catch the 8/9 bus towards Cathays, Cardiff’s student district, and get off at Woodville Road. From here it’s a short walk to the Former Methodist Sunday School on Fanny Street, the new home of Ffotogallery, Wales’ national agency for lens-based media, with its brand-new exhibition and event spaces, community cafe and bookshop opening late 2019/early 2020.
+Finally, catch the 8/9 bus towards Cathays, Cardiff’s student district, and get off at Woodville Road. From here it’s a short walk to the Former Methodist Sunday School on Fanny Street, the new home of Ffotogallery, Wales’ national agency for lens-based media, with its brand-new exhibition and event spaces. Their current exhibition ‘The Place I call Home’, presenting works from 15 artists from the Gulf, on until the 21 December.  
 
 ## Freebies
 
-There’s a wealth of public art in Cardiff – head to Cardiff University’s Music building to see a Barbara Hepworth sculpture, The Hayes for Bedwyr Williams’ chess tables and the Admiral Building for S. Mark Gubb’s iconic lightning bolt. 
+There’s a wealth of public art in Cardiff – head to Cardiff University’s Music building to see a Barbara Hepworth sculpture, The Hayes for Bedwyr Williams’ chess tables and the Admiral Building for S. Mark Gubb’s iconic lightning bolt.
 
-[Spit and Sawdust](https://www.facebook.com/spitandsawdust)
-
+[Spit and Sawdust](https://www.facebook.com/spitandsawdust)\
+\
 A unique art space/skate park at the bottom end of Newport Road, regularly throw free pot luck meals at their exhibition openings.
 
-[G39](https://www.artrabbit.com/organisations/g39)
+[g39](https://www.artrabbit.com/organisations/g39)
 
-G39 hold a weekly Breakfast Club on Saturday mornings where you can eat croissants, sip juice and chat about art. 
+g39 hold a weekly Breakfast Club on Saturday mornings where you can eat croissants, sip juice and chat about art.
 
 [Where I’m Coming From](https://www.facebook.com/whereimcomingfrom/)
 
@@ -73,9 +73,9 @@ If you’re green-fingered, Global Gardens are an artist collective with an allo
 
 Grassroots cultural organisation Gentle/Radical recently successfully crowdfunded to open a community and cultural hub at The Wyndham Centre, Riverside, including the Al Mish’aal co-working space, an alternative workspace that nurtures community, solidarity and radical exchange. 
 
-[Cardiff Story Museum](https://www.artrabbit.com/organisations/cardiff-story-museum)
+[Cardiff Central Library](https://www.visitcardiff.com/entertainment/cardiff-central-library/)
 
-In the city centre, pop over to the Cardiff Story Museum, located in Cardiff’s gorgeous Victorian library building to find Llaeth a Siwgr (Milk and Sugar), a spacious, contemporary and quiet café/bar perfect for studying. 
+Opened in June 2009 by the Manic Street Preachers, Cardiff Central library contains a host ofindividual work stations across its five floors and access to over 90,000 books and even a grandpiano!
 
 [Bute Park](http://bute-park.com/)
 
@@ -91,18 +91,11 @@ Catch a train to Penarth for a slice of seaside Victoriana and the Penarth Pier 
 
 ## Adornments for your Calendar
 
-From October 2019, Chapter presents a major three-part project with influential British artist Garth Evans. Alongside a [retrospective exhibition and collaborative theatre piece](https://www.artrabbit.com/events/garth-evans-but-hands-have-eyes), they will be [restoring and returning his 1972 ‘Untitled’ sculpture](https://www.artrabbit.com/events/untitled-sculpture-garth-evans) to Cardiff city centre, where it was originally situated in the early 70s. 
-
-[Iris Prize Festival](https://www.artrabbit.com/organisations/iris-prize-lgbt-film-festival)
-
-October also sees another edition of the annual, Cardiff’s LGBTQ film festival and the world’s largest queer short film prize. 
+[EXPERIMENTICA](https://www.facebook.com/experimenticafestival/)\
+Chapter’s 5-day Live Art and Performance festival returns in November 2020 and launches in April with special announcements and performances. Festival of Voice Wales Millennium Centre’s celebration of the voice in all its forms, returns in Spring 2020
 
 [Festival of Voice](https://www.artrabbit.com/organisations/festival-of-voice)
 
-Wales Millennium Centre’s celebration of the voice in all its forms, returns in Spring 2020
-
-[Tafwyl](https://www.artrabbit.com/organisations/tafwyl)
-
-A major celebration of Welsh language, culture and art, takes place in Cardiff Castle in July.
+Wales Millennium Centre’s celebration of the voice in all its forms, returns in Spring 2020.
 
 Follow Artes Mundi on [Twitter](http://twitter.com/@ArtesMundi), [Facebook](https://www.facebook.com/artesmundi/) or [Instagram](http://instagram.com/@ArtesMundi).
