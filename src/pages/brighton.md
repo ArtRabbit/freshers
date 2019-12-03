@@ -59,7 +59,7 @@ If you’re interested in Brighton’s street art visit the North Laines, an are
 
 ## Sweet study spots
 
-[Canvas Coffee Co. ](https://www.canvascoffee.co.uk/)
+[Canvas Coffee Co. ](https://www.phoenixbrighton.org/cafe/)
 
 If you’re looking for a creative atmosphere, try the Canvas Coffee Co. at the Phoenix Art Space. Good coffee, leather seating, and art on the walls make for the perfect study spot. 
 
