@@ -2,7 +2,7 @@
 title: DACS
 date: 2019-12-02T18:00:40.035Z
 permalink: /dacs-intro/index.html
-image: /static/img/uploads/dacs-webbanner.jpg
+image: /static/img/uploads/dacs-webbannerv2.jpg
 link: 'https://www.dacs.org.uk/'
 layout: layouts/ad
 pageNavigation:
