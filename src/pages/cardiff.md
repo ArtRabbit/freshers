@@ -15,11 +15,11 @@ pageNavigation:
 ---
 ## by Artes Mundi
 
-The Welsh capital, as with any capital city, is the commercial and cultural epicentre of Wales. Along with its economic contributions to the country, it’s home to several arts organisations and artists, both budding and renowned. Affectionately called Caerdydd in Welsh, (pronounced Cayer-Deeth), the city attracts its fair share of contemporary art lovers, not least because of leading cultural organisation Artes Mundi.
+The Welsh capital, as with any capital city, is the commercial and cultural epicentre of Wales. Along with its economic contributions to the country, it’s home to several arts organisations and artists, both emerging and renowned. Caerdydd in Welsh, (pronounced Cayer-Deeth), the city attracts its fair share of contemporary art lovers, not least because of Artes Mundi.
 
-Artes Mundi is an internationally-focused organisation that identifies, recognises and supports contemporary visual artists who engage with the human condition, social reality and lived experience. The biennial Artes Mundi exhibition takes place every two years in Cardiff (next one is coming up in 2021), the capital city of Wales, and the winning artist receives £40,000, the largest contemporary art prize in Britain. Previous winners include Apichatpong Weerasethakul, John Akomfrah, Theaster Gates and Teresa Margolles.
+Artes Mundi is one of Wales’ flagship international arts organisations. Founded as a biennial exhibition and prize with a focus on those artists who engage with the &#39;human condition&#39; in ways which centre on the urgent issues of our times, the next presentation will be in October 2020. The winning artist receives £40,000, one of the largest contemporary art prizes in the UK, with previous winners include Apichatpong Weerasethakul, John Akomfrah, Theaster Gates and Teresa Margolles.
 
-Cardiff boasts several culturally relevant spaces and art events listed below, as curated by Stephen Phillips, former Marketing and Communications Officer at Artes Mundi.
+Cardiff boasts several culturally relevant spaces and art events listed below, as curated by Stephen Phillips, formerly Marketing and Communications Officer at Artes Mundi.
 
 ## Art Trail
 
