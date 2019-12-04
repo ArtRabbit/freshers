@@ -83,7 +83,7 @@ If the weather’s good, simply head to Bute Park for your reading –the green 
 
 ## Alternative and art cinemas
 
-[Chapter](https://www.artrabbit.com/organisations/chapter)
+[Chapter Cinema](https://www.artrabbit.com/organisations/chapter)
 
 Chapter is home to Wales’ foremost independent cinema, with two screens dedicated to the best in arthouse, world cinema, independent film and local Welsh talent. 
 
@@ -94,9 +94,5 @@ Catch a train to Penarth for a slice of seaside Victoriana and the Penarth Pier 
 [EXPERIMENTICA](https://www.facebook.com/experimenticafestival/)
 
 Chapter’s 5-day Live Art and Performance festival returns in November 2020 and launches in April with special announcements and performances. Festival of Voice Wales Millennium Centre’s celebration of the voice in all its forms, returns in Spring 2020
-
-[Festival of Voice](https://www.artrabbit.com/organisations/festival-of-voice)
-
-Wales Millennium Centre’s celebration of the voice in all its forms, returns in Spring 2020.
 
 Follow Artes Mundi on [Twitter](http://twitter.com/@ArtesMundi), [Facebook](https://www.facebook.com/artesmundi/) or [Instagram](http://instagram.com/@ArtesMundi).
