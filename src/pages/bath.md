@@ -17,9 +17,9 @@ pageNavigation:
 
 Relaxing is what comes to mind when one thinks of Bath Spa, but that doesn’t mean the city’s contemporary art scene ever relaxes on their creativity. Slotted between Roman baths and luxury resorts are numerous spaces for culture and the arts that see an array of both local and international talent. 
 
-One such space is the Edge, a contemporary arts centre home to the Andrew Brownsword Gallery. It’s a creative hub bringing together arts and research, inspiring creativity and discovery through exhibitions, performances and workshops. Based at the University of Bath campus, the centre encourages and nurtures arts and science collaborations, providing a place where artists, audiences, researchers and academics can find new perspectives and fertile ground to showcase new thinking and ideas. Here, mechanical engineers meet sculptors interested in moving structures, architects work with artists to shed new light on the nature of play and how architecture influences it, and artists bring together inventing and engineering expertise to create artworks of scientific complexity.
+One such space is [the Edge](https://www.artrabbit.com/organisations/the-edge-bath), a contemporary arts centre home to the Andrew Brownsword Gallery. It’s a creative hub bringing together arts and research, inspiring creativity and discovery through exhibitions, performances and workshops. Based at the University of Bath campus, the centre encourages and nurtures arts and science collaborations, providing a place where artists, audiences, researchers and academics can find new perspectives and fertile ground to showcase new thinking and ideas. Here, mechanical engineers meet sculptors interested in moving structures, architects work with artists to shed new light on the nature of play and how architecture influences it, and artists bring together inventing and engineering expertise to create artworks of scientific complexity.
 
-Here are some top recommendations from across Bath, chosen by Nicole Mawby and Sophie Erin Evans from the Edge Team. 
+Here are some top recommendations from across Bath, chosen by Nicole Mawby and Sophie Erin Evans from [the Edge Team](https://www.artrabbit.com/organisations/the-edge-bath). 
 
 ## Art Trail
 
