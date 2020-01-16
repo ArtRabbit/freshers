@@ -1,7 +1,7 @@
 {
     "name": "ARTFreshers",
     "short_name": "ARTFreshers",
-    "start_url": "",
+    "start_url": "/",
     "serviceworker": {
     	"src": "/service-worker.js",
     	"scope": "/"
