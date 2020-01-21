@@ -21,7 +21,7 @@ This might account for why ArtRabbit is based here. It's where we experience the
 
 ## Art Trails
 
-With London being an endlessly walkable city and so chock-full of inspiring art venues, we’ve created some art trails throughout London to get you acquainted with each neighbourhood. **We'll be launching a new London trail every week or two**, so be sure to watch this space to explore a new part of London through art on the regular. They’ve been meticulously field-tested, with each trail taking no more than an hour max (excluding time spent inside venues), so they’re guaranteed to be a perfect way to explore different parts of town.
+With London being an endlessly walkable city and so chock-full of inspiring art venues, we’ve created some art trails throughout London to get you acquainted with each neighbourhood. **We'll be launching a new London trail every month or two**, so be sure to watch this space to explore a new part of London through art on the regular. They’ve been meticulously field-tested, with each trail taking no more than an hour max (excluding time spent inside venues), so they’re guaranteed to be a perfect way to explore different parts of town.
 
 The order of venues are only suggestions, so feel free to curate your own itinerary. While we wanted to highlight our favourite non-profit spaces and museums in this edition, there are lots more spaces and galleries nested in the different areas. For the most comprehensive gallery hopping experience, make sure to [download the ArtRabbit app](https://www.artrabbit.com/app).
 
